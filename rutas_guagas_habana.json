@@ -1,0 +1,3317 @@
+{
+    "P1":{
+        "parada":[
+            "Terminal la Rosita",
+            "Garita del diezmero",
+            "La cumbre",
+            "Dolores",
+            "Carolina",
+            "Loma de los zapotes",
+            "Virgen del camino",
+            "Estacion de ferrocarril Luyano",
+            "Concha y Luyano",
+            "Paso superior",
+            "Hospital miguel enriquez",
+            "La lechera",
+            "Cuatro caminos",
+            "Parque la normal",
+            "Hospital Pediatrico de Centro Habana",
+            "Hospital Emergencias",
+            "Cine astral",
+            "La rampa",
+            "Coppelia",
+            "Linea y g",
+            "Linea y paseo",
+            "Linea y 12",
+            "Tunel de linea",
+            "Terminal miramar",
+            "Teatro carlos marx",
+            "3 y 30",
+            "3 y 40",
+            "3 y 70",
+            "Casa central de las FAR",
+            "Parque la isla del coco",
+            "Terminal playa"
+        ],
+        "ida":["Avenida 99", "Calle 62", "Avenida 101", "Calzada Guines", "Calle 100", "Calzada de Guines", "Calzada Luyano", "Concha", "Cristina", "Arroyo", "Manglar", "Infanta", "Calle 23", "Calle l", "Linea", "Avenida 31", "Calle 10", "Avenida 3", "Calle 112", "Avenida 5", "Calle 120", "Calle 5"],
+        "regreso":[
+            "Calle 5",
+            "Calle 118",
+            "Avenida 5",
+            "Calle 112",
+            "Avenida 3",
+            "Calle 10",
+            "Avenida 31",
+            "Calle linea",
+            "Calle j",
+            "Calle 23",
+            "Calle p",
+            "Infanta",
+            "Amenidad",
+            "San Joaquin",
+            "Manglar",
+            "Cristina",
+            "Concha",
+            "Calzada Luyano",
+            "Calzada Guines",
+            "Calzada Guanabacoa",
+            "Calzada Guines",
+            "Calle 100 "
+        ]
+    },
+    "P2":{
+        "parada":[
+            "Terminal Alberro",
+            "62 y 101",
+            "Loma De Tierra",
+        "Alberro Nuevo",
+        "Bello Palmar",
+        "Terminal Cotorro",
+        "Parque Cotorro",
+        "Policlinico Efrain Mayor",
+        "Palace",
+        "Las Granjas",
+        "San Pedro",
+        "Siboney",
+        "San francisco",
+        "Terminal la rosita",
+        "Garita del diezmero",
+        "La cumbre",
+        "Dolores",
+        "Cuatro ruedas",
+        "Cupet de dolores",
+        "Circulo infantil",
+        "Dolores y 16",
+        "Dolores y porvenir",
+        "Parque dolores",
+        "Lacret y 10 de octubre",
+        "Lacret y cortina",
+        "Lacret y vento",
+        "Via blanca y palatino",
+        "Ciudad deportiva",
+        "Cerro y boyeros",
+        "Boyeros y tulipan",
+        "Terminal de omnibus nacionales",
+        "G y 25",
+        "G y linea",
+        "G y 3"
+        ],
+        "ida":[
+            "Avenida 99",
+            "calle 62",
+            "Avenida 101",
+            "Calzada Güines",
+            "dolores",
+            "lacret",
+            "via blanca",
+            "boyeros",
+            "Calle g",
+            "Calle 3"
+        ],
+        "regreso":[
+            "Calle g",
+            "Avenidac. M. Cespedes",
+            "boyeros",
+            "v. Blanca",
+            "lacret",
+            "dolores",
+            "Calzada Guines",
+            "Avenida 101",
+            "Calle 62",
+            "Avenida 99",
+            "hasta el deposito"
+        ]
+    },
+    "P3":{
+        "parada":[
+            "Cine xi festival",
+        "Mercado ruso",
+        "Anfiteatro",
+        "Policlinico zona v",
+        "Hanoi",
+        "Puente alamar",
+        "Reparto Guiteras",
+        "Rotonda cojimar",
+        "Reparto Chibas",
+        "Refineria nico lopez",
+        "Entronque Guanabacoa y regla",
+        "Fabrica de aluminio",
+        "Rotonda shell",
+        "Barrio obrero",
+        "Virgen del camino",
+        "Estacion de ferrocarril de luyano",
+        "Correo de Lawton",
+        "Porvenir y dolores",
+        "Estacion de policia de acosta",
+        "5to distrito",
+        "Acosta y Heredia",
+        "Acosta y d'strampes",
+        "Palacio de los matrimonios",
+        "Santa catalina y goss",
+        "Santa catalina y palatino",
+        "Santa catalina y primelles",
+        "Ciudad deportiva",
+        "Hospital clinico quirurgico",
+        "Zoologico",
+        "Acapulco",
+        "26 y 25",
+        "26 y 17",
+        "Tunel de linea"
+        ],
+        "ida":[
+        "Calle 168",
+        "Avenida 3",
+        "Calle 160",
+        "Avenida 7",
+        "AvenidaCojimar",
+        "via blanca",
+        "Calzada Guanabacoa",
+        "Calzada Luyano",
+        "porvenir",
+        "acosta",
+        "mayia rodriguez",
+        "sta. Catalina",
+        "boyeros",
+        "Avenida 26",
+        "Calle 11",
+        "Calle 24"
+    ],
+        "regreso":[
+            "Calle 24",
+        "zapata",
+        "Avenida 26",
+        "boyeros",
+        "santa catalina",
+        "mayia rodriguez",
+        "acosta",
+        "porvenir",
+        "Calzada Luyano",
+        "Calzada Guanabacoa",
+        "via blanca",
+        "Avenida Cojimar",
+        "Avenida 7",
+        "Calle 160",
+        "Avenida 3",
+        "Calle 168"
+        ]
+    },
+    "P4":{
+        "parada":[
+            "Terminal san Agustin",
+        "Reparto El frances",
+        "Cupet",
+        "Supermercado de 222",
+        "Siboney",
+        "pabexpo",
+        "El nautico",
+        "Terminal playa",
+        "Romerillo",
+        "Querejeta",
+        "19 y 84",
+        "19 y 70",
+        "19 y 44",
+        "Cine ambassador",
+        "41 y 42",
+        "Reparto kohly",
+        "26 y 23",
+        "23 y 12",
+        "23 y paseo",
+        "23 y g",
+        "Coppelia",
+        "La rampa",
+        "Cine astral",
+        "Supercake",
+        "Parque de la fraternidad",
+        "Terminal de trenes"
+        ],
+        "ida":[
+            "Avenida 27",
+        "Calle 264",
+        "Avenida 23",
+        "Calle 190",
+        "Avenida 17",
+        "Avenida 5",
+        "Calle 120",
+        "Avenida 9",
+        "Calle 84",
+        "Avenida 19",
+        "Calle 44",
+        "Avenida 41",
+        "Calle 28",
+        "Calle 23",
+        "Calle p",
+        "infanta",
+        "zanja",
+        "Galiano",
+        "dragones",
+        "prado",
+        "Cienfuegos",
+        "arsenal",
+        "hasta cardenas"
+        ],
+        "regreso":[
+            "Arsenal",
+        "egido",
+        "dragones",
+        "zanja",
+        "infanta",
+        "san lazaro",
+        "Calle 23",
+        "Calle 28",
+        "Avenida 41",
+        "Calle 44",
+        "Avenida 19",
+        "calle 84",
+        "Avenida 9",
+        "Calle 120",
+        "Avenida 5",
+        "Avenida 17",
+        "Calle 190",
+        "Avenida 23",
+        "calle 272",
+        "Avenida 27"
+        ]
+    },
+    "P5":{
+        "parada":[
+            "Terminal san Agustin",
+        "Supermercado de 250",
+        "51 y 250",
+        "Cinco palmas",
+        "Arimao",
+        "Hospital Frank pais",
+        "La lisa",
+        "Plaza Marianao",
+        "51 y 114",
+        "Hospital Militar",
+        "Hospital Juan m. Marquez",
+        "Hospital Pando ferrer",
+        "31 y 66",
+        "31 y 56",
+        "Cine ambassador",
+        "31 y 30",
+        "Terminal Miramar",
+        "Tunel de linea",
+        "Linea y paseo",
+        "Linea y g",
+        "Coppelia",
+        "La rampa",
+        "Hospital Ameijeiras",
+        "San lazaro y Galiano",
+        "Tunel de la bahia",
+        "Muelle de caballeria",
+        "Muelle de luz",
+        "Terminal de trenes",
+        "Capitolio",
+        "Tunel de la bahia",
+        "San lazaro y Galiano",
+        "Hospital Ameijeiras",
+        "Universidad",
+        "Linea y g",
+        "Linea y paseo",
+        "Tunel de linea",
+        "Terminal Miramar",
+        "31 y 30",
+        "Cine ambassador",
+        "31 y 56",
+        "31 y 66",
+        "Hospital Pando ferrer",
+        "Hospital Juan m. Marquez",
+        "Hospital Militar",
+        "114 y 45",
+        "Plaza Marianao",
+        "La lisa",
+        "Hospital Frank pais",
+        "Arimao",
+        "Cinco palmas",
+        "51 y 250",
+        "Supermercado de 250",
+        "Terminal San Agustin"
+        ],
+        "ida":[
+            "Avenida 27",
+        "calle 172",
+        "Avenida 31",
+        "calle 250",
+        "Avenida 51",
+        "calle 114",
+        "Avenida 31",
+        "linea",
+        "calle j",
+        "calle 23",
+        "calle p",
+        "san lazaro",
+        "AvenidaDel puerto",
+        "egido",
+        "monte",
+        "prado",
+        "carcel",
+        "san lazaro",
+        "calle l",
+        "linea",
+        "Avenida 31",
+        "calle 114",
+        "Avenida 45",
+        "calle 124",
+        "Avenida 51",
+        "calle 250",
+        "Avenida 31",
+        "calle 172",
+        "Avenida 27"
+        ],
+        "regreso":[]
+    },
+    "P6":{
+        "parada":[
+            "Reparto Electrico",
+        "Puente del calvario",
+        "13 de marzo",
+        "Terminal mantilla",
+        "Policlinico mantilla",
+        "La palma",
+        "Vibora Park",
+        "Cafe colon",
+        "10 de octubre y acosta",
+        "Pio pio",
+        "Hospital Santos Suarez",
+        "Toyo",
+        "La lechera",
+        "Cuatro caminos",
+        "Yumuri",
+        "Hospital Ameijeiras",
+        "Universidad"
+        ],
+        "ida":[
+            "Calzada Managua",
+        "10 de Octubre",
+        "cristina",
+        "belascoain",
+        "san lazaro",
+        "calle l",
+        "Calle 23"
+        ],
+        "regreso":[
+            "calle 23",
+            "malecon",
+            "marina",
+            "san lazaro",
+            "belascoain",
+            "cristina",
+            "10 de octubre",
+            "Calzada. Managua"
+        ]
+    },
+    "P7":{
+        "parada":[
+            "industria",
+        "dragones",
+        "prado",
+        "monte",
+        "matadero",
+        "cristina",
+        "Calzada 10 de octubre",
+        "Calzada luyano",
+        "Calzada Guines",
+        "Avenida 101",
+        "calle 62",
+        "Avenida 99"
+        ],
+        "ida":[
+            "Avenida 99",
+        "calle 62",
+        "Avenida 101",
+        "Calzada Güines",
+        "Calzada Luyano",
+        "Calzada 10 de octubre",
+        "cristina",
+        "monte hasta industria"
+        ],
+        "regreso":[
+            "industria",
+        "dragones",
+        "prado",
+        "monte",
+        "matadero",
+        "cristina",
+        "Calzada 10 de octubre",
+        "Calzada luyano",
+        "Calzada Güines",
+        "Avenida 101",
+        "calle 62",
+        "Avenida 99"
+        ]
+    },
+    "P8":{
+        "parada":[
+            "Reparto Electrico",
+            "Puente del calvario",
+            "13 de marzo",
+            "Terminal mantilla",
+            "Policlinico mantilla",
+            "La palma",
+            "Vibora park",
+            "Cafe colon",
+            "Calzada. 10 de octubre y acosta",
+            "Pio pio",
+            "Hospital santos Suarez",
+            "Toyo",
+            "La lechera",
+            "Cuatro caminos",
+            "Parque de la fraternidad",
+            "Capitolio",
+            "Entrada del tunel de la bahia",
+            "La cabana",
+            "Hospital naval",
+            "Villa panamericana"
+        ],
+        "ida":[
+            "Calzada Managua",
+            "10 de octubre",
+            "cristina",
+            "belascoain",
+            "monte",
+            "prado",
+            "tunel",
+            "monumental",
+            "villa panamericana"
+        ],
+        "regreso":[
+            "villa panamericana",
+        "monumental",
+        "tunel",
+        "prado",
+        "monte",
+        "arroyo",
+        "Manglar",
+        "cristina",
+        "Calzada 10 de octubre",
+        "Calzada Managua"
+        ]
+    },
+    "P9":{
+        "parada":[
+            "Terminal santa Amalia",
+        "La palma",
+        "Vibora park",
+        "Cafe colon",
+        "Cz. 10 de octubre y acosta",
+        "Pio pio",
+        "Hospital santos Suarez",
+        "Toyo",
+        "La lechera",
+        "Cuatro caminos",
+        "Yumuri",
+        "Hospital ameijeiras",
+        "La rampa",
+        "Coppelia",
+        "23 y g",
+        "23 y paseo",
+        "23 y 12",
+        "23 y 26",
+        "Reparto Kohly",
+        "41 y 42",
+        "Cine avenida",
+        "Hospital Pando ferrer",
+        "Hospital Juan m. Marquez",
+        "Hospital militar",
+        "51 y 114",
+        "Tienda transimport",
+        "Cujae"
+        ],
+        "ida":[
+            "Marti",
+        "Calzada Bejucal",
+        "Calzada 10 de octubre",
+        "cristina",
+        "belascoain",
+        "san lazaro",
+        "marina",
+        "malecon",
+        "calle 23",
+        "calle 28",
+        "Avenida 41",
+        "Avenida 31",
+        "calle 114",
+        "ctra. Toledo",
+        "CUJAE"
+        ],
+        "regreso":[
+            "CUJAE",
+        "ctra. Toledo",
+        "calle 114",
+        "Avenida 31",
+        "Avenida 41",
+        "calle 28",
+        "calle 23",
+        "malecon",
+        "marina",
+        "san lazaro",
+        "belascoain",
+        "cristina",
+        "10 de octubre",
+        "cz. Bejucal",
+        "washington",
+        "alvaro"
+        ]
+    },
+    "P10":{
+        "parada":[
+            "Terminal santa Amalia",
+            "La palma",
+            "Vibora park",
+            "Cafe colon",
+            "Calzada 10 de octubre y acosta",
+            "Pio pio",
+            "Hospital santos Suarez",
+            "Toyo",
+            "La lechera",
+            "Cuatro caminos",
+            "Yumuri",
+            "Hospital ameijeiras",
+            "La rampa",
+            "Coppelia",
+            "23 y g",
+            "23 y paseo",
+            "23 y 12",
+            "23 y 26",
+            "Reparto Kohly",
+            "41 y 42",
+            "Cine avenida",
+            "Hospital Pando ferrer",
+            "Hospital Juan m. Marquez",
+            "Hospital militar",
+            "51 y 114",
+            "Tienda transimport",
+            "Cujae"
+        ],
+        "ida":[
+            "Marti",
+        "Calzada Bejucal",
+        "Calzada10.octubre",
+        "cristina",
+        "belascoain",
+        "san lazaro",
+        "marina",
+        "malecon",
+        "Calle 23",
+        "Calle 28",
+        "Avenida 41",
+        "Avenida 31",
+        "Calle 114",
+        "ctra. Toledo",
+        "CUJAE"
+        ],
+        "regreso":[
+            "CUJAE",
+        "ctra. Toledo",
+        "Calle 114",
+        "Avenida 31",
+        "Avenida 41",
+        "Calle 28",
+        "Calle 23",
+        "malecon",
+        "marina",
+        "san lazaro",
+        "belascoain",
+        "cristina",
+        "10 de octubre",
+        "cz. Bejucal",
+        "washington",
+        "alvaro"
+        ]
+    },
+    "P11":{
+        "parada":[
+            "Micro X",
+        "Policlinico neninger",
+        "Zona XVII",
+        "Base taxi",
+        "Cine xi festival",
+        "Mercado ruso",
+        "Anfiteatro",
+        "Parque de diversiones",
+        "Intermitente de alamar",
+        "Circulo infantil",
+        "Puente de alamar",
+        "Reparto Guiteras",
+        "Villa panamericana",
+        "Hospital naval",
+        "La cabana",
+        "Entrada del tunel de la bahia",
+        "Parque central / capitolio",
+        "Parque de la fraternidad",
+        "Yumuri",
+        "Hospital emergencias",
+        "Calle G",
+        "Calle 27" 
+        ],
+        "ida":[
+            "Calle 168",
+            "Avenida 5",
+            "Calle 192",
+            "Avenida 5",
+            "Calle 168",
+            "Avenida 3",
+            "Calle 162",
+            "Calle 164",
+            "Avenida 7",
+            "salida alamar",
+            "monumental",
+            "tunel",
+            "zulueta",
+            "s. Jose",
+            "prado",
+            "reina",
+            "s. Allende",
+            "Calle g",
+            "Calee 27"
+        ],
+        "regreso":[
+            "Calle 27",
+        "Calle g",
+        "s. Allende",
+        "reina",
+        "prado",
+        "monumental",
+        "Avenida 7",
+        "Calle 164",
+        "Calle 162",
+        "Avenida 3",
+        "Calle 186",
+        "Avenida 5",
+        "Calle 192",
+        "punto control"
+        ]
+    },
+    "P12":{
+        "parada":[
+            "Terminal Santiago",
+        "Parque Santiago",
+        "Calle 1",
+        "Calle 2",
+        "Mulgoba",
+        "Primero de mayo",
+        "Boyeros y van troi",
+        "Boyeros y cz. Bejucal",
+        "Mazorra",
+        "Rio verde",
+        "Fontanar",
+        "Reparto Maria del Carmen",
+        "Entronque cujae",
+        "Capdevila",
+        "Boyeros y vento",
+        "Boyeros y 100",
+        "Reparto Marti",
+        "Ciudad deportiva",
+        "Boyeros y cz. Cerro",
+        "Boyeros y tulipan",
+        "Terminal de omnibus nacionales",
+        "Hospital emergencias",
+        "Yumuri",
+        "Parque de la fraternidad"
+        ],
+        "ida":[
+            "Mulgoba",
+        "boyeros",
+        "Calle 2",
+        "Calle 17",
+        "estacion Santiago",
+        "Calle 17",
+        "Calle 2",
+        "boyeros",
+        "salvador allende",
+        "reina",
+        "industria",
+        "dragones",
+        "prado",
+        "reina"
+        ],
+        "regreso":[
+            "reina",
+            "salvador allende",
+            "carlos manuel de cespedes",
+            "boyeros",
+            "Calle 2",
+            "Calle 17",
+            "ctra. Rincon",
+            "estacion Santiago"
+        ]
+    },
+    "P13":{
+        "parada":[
+            "Terminal vibora",
+            "Cafe colon",
+            "Policake",
+            "La palma",
+            "Woodbury",
+            "Ciro frias",
+            "Poey",
+            "Policlinico los pinos",
+            "Cerro pelado",
+            "Hospital William soler",
+            "100 y aldabo",
+            "Hospital Nacional",
+            "100 y boyeros",
+            "Puente nuevo",
+            "Autopista",
+            "100 y 51",
+            "Cine lido",
+            "Hospital Pando ferrer",
+            "Funeraria de 70",
+            "70 y 19",
+            "70 y 3",
+            "Casa central de las far",
+            "Parque la isla del coco",
+            "Terminal playa",
+            "El nautico"
+        ],
+        "ida":[
+            "Sta. Amalia",
+        "Calzada 10 de octubre",
+        "Carmen",
+        "parraga",
+        "patrocinio",
+        "10 de octubre",
+        "Calzada Bejucal",
+        "Calle 6",
+        "perla",
+        "Calle 100",
+        "aldabo",
+        "Calle 100",
+        "Avenida 41",
+        "Avenida 31",
+        "Calle 72",
+        "Calle 29f",
+        "Calle 70",
+        "Avenida 3",
+        "Calle 110",
+        "Avenida 3",
+        "Calle 112",
+        "Avenida 5",
+        "Calle 152"
+        ],
+        "regreso":[
+            "Calle 152",
+            "Avenida 5",
+            "Calle 112",
+            "Avenida 3",
+            "Calle 110",
+            "Avenida 3",
+            "Calle 70",
+            "Calle 29f",
+            "Calle 72",
+            "Avenida 31",
+            "Avenida 41",
+            "Calle 100",
+            "aldabo",
+            "Calle 100",
+            "perla",
+            "Calle 6",
+            "Calzada Bejucal",
+            "10 de octubre",
+            "Carmen"
+        ]
+    },
+    "P14":{
+        "parada":[
+            "Terminal San Agustin",
+    "Reparto El Frances",
+    "Reparto Barbosa",
+    "Reparto Los Rusos",
+    "I.P.K.",
+    "Novia del Mediodia",
+    "Bar Maderas",
+    "Arroyo Arenas",
+    "51 y 250",
+    "Cinco Palmas",
+    "Arimao",
+    "Hospital Frank Pais",
+    "La Lisa",
+    "Plaza Marianao",
+    "51 y 114",
+    "100 y 51",
+    "Alturas de Belen",
+    "La Ceiba",
+    "La Papelera",
+    "Cz. de Puentes Grandes y 26",
+    "Cz. del Cerro y Boyeros",
+    "Cine Maravillas",
+    "Hospital Covadonga",
+    "Esquina de Tejas",
+    "Cuatro Caminos",
+    "Parque de la Fraternidad"
+        ],
+        "ida":[
+            "Calle 27", 
+            "Calle 264", "Avenida 23", "Avenida 310",
+            "Autopista Novia del Mediodia", 
+            "Avenida 51", "Avenida 51", "Ptes. Grandes",  "Calzada Cerro", "Monte", 
+            "Factoria"
+        ],
+        "regreso":[
+            "Prado",
+    "Dragones",
+    "Prado",
+    "Monte",
+    "Calzada Cerro",
+    "Ptes. Grandes",
+    "Avenida 51",
+    "Autopista Novia del Mediodia",
+    "Avenida 310",
+    "Avenida 23",
+    "Calle 272",
+    "Calle 27"
+        ]
+    },
+    "P15":{
+        "parada":[
+            "Puente de Santa Fe",
+            "Corralfalso",
+            "Rotaria",
+            "10 de Octubre",
+            "Regla",
+            "Anillo del Puerto",
+            "Egido",
+            "Reina",
+            "Salvador Allende",
+            "Universidad",
+            "Ronda",
+            "27 de Noviembre",
+            "Calle G",
+            "Calle 25"
+        ],
+        "ida":[
+            "Puente de Santa Fe", "Corralfalso",
+            "Rotaria", "10 de Octubre", "Regla", 
+            "Anillo del Puerto", "Egido", "Reina", "Salvador Allende", "Universidad", 
+            "Ronda", "27 de Noviembre", "Calle G",
+            "Calle 25"
+        ],
+        "regreso":[
+            "Calle G",
+    "Salvador Allende",
+    "Reina",
+    "Zulueta",
+    "Arsenal",
+    "Egido",
+    "Avenida del Puerto",
+    "Anillo del Puerto",
+    "10 de Octubre",
+    "Regla",
+    "Rotaria",
+    "Corralfalso hasta el Puente de Santa Fe"
+        ]
+    },
+    "P16":{
+        "parada":[
+            "Terminal Santiago",
+    "Parque Santiago",
+    "Calle 1 y Calle 2",
+    "Mulgoba",
+    "Primero de Mayo",
+    "Boyeros y Van Troi",
+    "Boyeros y Cz. Bejucal",
+    "Mazorra",
+    "Rio Verde",
+    "Fontanar",
+    "Reparto Maria del Carmen",
+    "Entronque Cujae",
+    "Capdevila",
+    "Boyeros y Vento",
+    "Boyeros y 100",
+    "Reparto Marti",
+    "Ciudad Deportiva",
+    "Boyeros y Cz. Cerro",
+    "Boyeros y Tulipan",
+    "Terminal de omnibus Nacionales",
+    "G y 25",
+    "Coppelia",
+    "La Rampa",
+    "Hospital Ameijeiras"
+        ],
+        "ida":[
+            "Mulgoba", 
+            "boyeros", "calle 2", "calle 17", "estacion santiago", "calle 17",
+            "calle 2", "boyeros", "calle g", "calle 23", "malecon", "marina", 
+            "san lazaro"
+        ],
+        "regreso":[
+            "San Lazaro",
+            "Infanta",
+            "Calle 23",
+            "Calle G",
+            "Carlos Manuel de Cespedes",
+            "Boyeros",
+            "Calle 2",
+            "Calle 17",
+            "Ctra. Rincon",
+            "Estacion Santiago"
+        ]
+    },
+    "PC":{
+        "parada":[
+            "Hospital Naval",
+    "Villa Panamericana",
+    "Reparto Guiteras",
+    "Berroa",
+    "Puente Santa Fe",
+    "Monumental",
+    "Planta de Asfalto",
+    "El Repollo",
+    "Puente 8 Vias",
+    "Rancho Elina",
+    "San Pedro",
+    "Autopista Habana - Melena",
+    "Puente del Calvario",
+    "Reparto Comodoro",
+    "Parque Lenin",
+    "Puente de Calabazar",
+    "La Fortuna",
+    "Los Camilitos",
+    "Entronque Cujae",
+    "Escuela de Enfermeria",
+    "IPSJAE",
+    "Tienda Transimport",
+    "51 y 114",
+    "Hospital Militar",
+    "Reparto Zamora",
+    "Reparto Cubanacan", 
+    "ENA",
+    "ISA",
+    "Terminal Playa"
+        ],
+        "ida":[
+            "Via de servicio paralelo a la monumental", "e4015",
+            "4020", "intercambio",
+            "monumental", "1er anillo", "calle 100", "costa costa",
+            "ctra toledo", "calle 114", "Avenida 25", "calle 120", 
+            "Calle 5"
+        ],
+        "regreso":[
+            "Calle 120", 
+    "Avenida 25", 
+    "Calle 114", 
+    "Ctra Toledo", 
+    "Costa Costa", 
+    "Calle 100", 
+    "1er Anillo", 
+    "Monumental", 
+    "Via de acceso a Habana del Este", 
+    "Rotonda Habana del Este", 
+    "Via de servicio paralelo a Monumental" ,
+    "E-4015-4021"
+        ] 
+    },
+    "1":{
+        "parada":[
+            "Calle 16 y calle b",
+            "Calle 11 y calle G.Lawton",
+            "Porvenir y Luyano",
+            "Calzada luyano y Teresa Blanco",
+            "Hospital Hijas de Galicia",
+            "Villanueva y Santa Ana",
+            "Villanueva y Velazque",
+            "Fabrica E, Santa Felicia y Herrera",
+            "Reyes y tres palacios",
+            "Reyes y pasaje brinas",
+            "San Anastasio y Dolores",
+            "Concepcion y 10 de octubre",
+            "Vibora",
+            "10 de ocubre y Josefina",
+            "Policake",
+            "Santa Amalia y Alvaro",
+            "Rivera E, Agramonte y Grant",
+            "Calle D",
+            "Avenida 2",
+            "Avenida 6",
+            "Policia Los Pinos",
+            "Arday y Cuba",
+            "Cuba y AvenidaBejucal",
+            "Hospital Julio Trigo",
+            "Calzada Bejucal y Cda La Guinera",
+            "Reparto Capri",
+            "La Fortuna",
+            "Puente de Calabazar"
+                    ],
+        "ida":[
+           "Calle 16 y calle b",
+            "Calle 11 y calle G.Lawton",
+            "Porvenir y Luyano",
+            "Calzada luyano y Teresa Blanco",
+            "Calzada de Luyano y Guasabacoa",
+             "Villanueva y Santa Ana",
+             "Villanueva y Velazque",
+             "Fabrica E, Santa Felicia y Herrera",
+             "Reyes y tres palacios",
+             "Reyes y pasaje brinas",
+             "San Anastasio y Dolores",
+             "Concepcion y 10 de octubre",
+             "10 de Octubre y O'Farril",
+             "10 de ocubre y Josefina",
+             "10 de Octubre y Miguel",
+             "Santa Amalia y Alvaro",
+             "Rivera E, Agramonte y Grant",
+             "Calle D",
+             "Avenida 2",
+             "Avenida 6",
+             "Perla E, Betancourt y Oeste",
+             "Arday y Cuba",
+             "Cuba y AvenidaBejucal",
+             "Calzada Bejucal y Hospital Julio Trigo",
+             "Calzada Bejucal y Cda La Guinera",
+             "Calzada Bejucal y Guttenberg",
+             "Calle 100",
+             "Terminal Fortuna"
+        ],
+        "regreso":[
+           "1er anillo",
+            "AvenidaSan Francisco",
+            "Calzada Bejucal y Secundaria Basica",
+            "Calzada Bejucal y Guinera",
+            "Calzada Bejucal y 1",
+            "Calzada Bejucal y Hospital Julio Trigo",
+            "Cuba y Cda. Bejucal",
+            "Arday y Cuba",
+            "Finlay y San Antonio",
+            "Finlay y Perla",
+            "Avenida 6",
+            "Calle D y Avenida1",
+            "Rivera y Agramonte",
+            "Santa Amalia y Alvaro"
+        ]
+        
+    },
+    "8":{
+       "parada":[
+           "Romerillo", "Quejereta", "Terminal Miramar", "Estacion Policia", "Plaza de la Revolucion", "Paseo y Ayestaran", "Zaldo e Infanta",
+           "Suchel", "Arroyo y Chamorro", "La Coubre", "Alameda de Paula", "Cuba",
+           "Anfiteatro Habana Vieja", "Muelle de caballeria", "Terminal La Coubre","Catedral Griega", "Hotel Cohiba"
+                    ],
+        "ida":[
+           "Calle 120",
+           "Avenida 9",
+           "Calle 84",
+           "Avenida 13", "Calle 42", "Avenida 19", "Calle 30", "Avenida 41", "Calle 10", "Avenida 31", "Linea", "Paseo", "Avenida 27", 
+           "Zapata", "CM Cespedes", "Aranguren", "Manglar", 
+           "Cuba", "AvenidaDel puerto", "Desamparados"             
+        ],
+        "regreso":[
+           "Cuba", "AvenidaDel puerto",  "Desamparados", "Arroyo",
+           "Aranguren", "Boyeros", "Zapata","Avenida 3",
+           "Calle 12", "Linea", "Avenida 19", "Calle 44", "Calle 60", "Avenida 13", "Avenida 9",
+           "Calle 120"
+        ] 
+},
+"A51":{
+       "parada":[
+              "Ciudad Deportiva", "Hospital clinico quirurgico", "Zoologico", "Cubacontrol",
+              "Acapulco","Reparto Kolly", "Cine Ambassador", "Ceguera", "Pediatrico Marianao", "Obelisco",
+              "Hospital Militar", "Escuela Medicina Giron", "Genetica", "Parqueo Pabexpo", 
+              "La estrella", "Los marinos", "Jaimanita", "Asilo", "Ramiritos", "J.M.Martinez", "Santa Fe"  
+    ],
+        "ida":[
+               "Calzada de Palatino", "via blanca", "Avenida 26", "Calle 23",
+               "Calle 28", "Calle 41", "Calle 30", "Avenida 31" , "Calle 114", 
+               "Avenida 25", "Calle 188", "Calle 190", "Avenida 7", "Calle 286", "Avenida 1", 
+               "Calle 306"       
+        ],
+        "regreso":[
+           "Calle 306", "Avenida 7", "Calle 308", "Avenida 1", "Calle 296", 
+           "Avenida 7", "Avenida 5", "Calle 190", "Avenida 23", "Calle 188", "Avenida 31",
+           "Avenida 25", "Calle 114", "Avenida 41", "Calle 28", "Avenida 26", "via blanca","Palatino"
+        ] 
+},
+"15":{
+       "parada":[
+           "Lawton", "Acosta", "Acosta y San Anastasio", "Acosta y Poey", "Gertudris y Avellaneda", "Espadero y Goicuria", "Mercado del Monaco",
+           "Palacio Matrimonio", "Mayia Rodriguez y Milagros", "Santo Suarez",
+           "La lechera", "Cuatro Caminos", "Los sitios", "Yumuri", "Parque el Curita", "Cine Pyred", "Anfiteatro Habana Vieja", "Catedral Vieja", "Desamparados y Habana"      
+    ],
+        "ida":[
+              "Calle 16", "Dolores", "acosta", "Heredia", "Gertrudis", "Espadero", "10 de octubre", "Cristina",
+              "Santo Suarez", "Paz", "mayia rodriguez", "Gral Lee", "belascoain", "Zanja",
+              "Galiano", "dragones", "industria", "San Jose", "Monserrate", "Pena Pobre",
+              "AvenidaDel puerto", "Desamparados"         
+        ],
+        "regreso":[
+           "Desamparados", "AvenidaDel puerto", "Pena Pobre", "Cuba/Tacon", "San Jose", "Prado",
+           "Dragones", "Zanja", "belascoain", "Cristina", "10 de Octubre", "Santa Emilia",
+           "Paz", "Juan Delgado", "acosta", "Mayia Rodriguez", "San Miguel", "Goicuria", "Avellaneda", "dolores", "Calle 16"
+        ] 
+},
+"A68":{
+       "parada":[
+            "Palatino", "Heladeria Word", "Primelles y Fomento", "Primelle y Velarde", "Maravilla", "Primelle y Canongo", "Calzada Cerro y Tulipan",
+            "Hospital Covadonga", "sasravia y Cda. Cerro", "Cruz del Padree y estevez",
+            "Infanta y Amenidad", "Pediatrico C.Habana", "Hospital Emergencias", "Zanja y Oquendo", "Zanja y Gervasio",
+            "Zanja y Rayo", "Terminal de Trenes", "Desamparados y Habana", "Lanchita de Regla", "AvenidaDe Puerto", "La cabana", "Hospital Naval", "Los 3 Picos", "Via tunel", "Calle 82"   
+    ],
+        "ida":[
+            "Calle 82", "Av.Via tunel", "monumental", "carcel", "AvenidaDel puerto", "Desamparados",
+            "Egido", "Monserrate", "dragones", "Infanta", "Zanja", "Calzada Cerro", "Primelles", "Santa Catalina", "Palatino",
+            "Agua", "Chaple"       
+        ],
+        "regreso":[
+           "Calzada de Palatino", "Santa Catalina", "Primelles", "Calzada Cerro", "Cruz del Padre", "Infanta", "San Francisco", "Zanja", "Galiano", "Dragones", "Prado", "Cienfuegos",
+        "Arsenal", "Desamparados", "AvenidaDel puerto", "carcel", "monumental", "Avenidavia Tunel", "Calle 82"
+            ] 
+},
+"A20":{
+       "parada":[
+        "terminal miramar ", "tunel linea ","linea y 12 ","teatro mella","linea y g", "embajada de hungria", "hospitales del vedado ","hospitales calixto garcia ,'hospitales almejeires ",
+       "belascoain", "San miguel y san rafael " ,"yumuri" ,"los sitios ", "cuatro camino ", "Esquina de Tejas", "Calzada Cerro y Consejero Arango", "Hospital Covadonga", "Paulita Concepcion", 
+       "Hospital del Cerro", "Primelles y San Cristobal", "Primelle y Velarde", "Ciudad Deportiva", "Heladeria Word"                
+    ],
+        "ida":[ 
+                "Palatino", "Santa Catalina", "Primelles", "Calzada Cerro", "Monte", "belascoain", "san lazaro",
+                "27 de Noviembre", "AvenidaUniversidad", "Calle G", "Calle 9", "Linea", "Tunel de linea", "Calle 4"       
+        ],
+        "regreso":[
+           "Call 5", "Calle 4", "calle 5","calle 0","borde superior tunel ","calle 2","calle 7","calle 6","calle 5","tunel de linea ","tunel de linea ","Calle g","Avenidauniversidad ","calle r",
+           "ronda ","calle san lazaro ","belascoain ","calle monte ","calzada del cerro ","primelles ","calle santa clara ","palatino ","agua "
+        ]
+},
+"23":{
+       "parada":[
+
+        "calle 16 " , "calle b " , "calle 11 " , "Calle G lawton " , "porvenir " , "luyano " , "Calzada. luyano " , "teresa blanco " , "Hospital h galicia " , "Villanueva " , 
+        "sta. ana " , "Villanueva " , "velasquez " , "jesus peregrino  " , "yola " , "castillos atares " , "arroyo " , "chamorro " , "los sitios " , "yumuri " , "parque fraternidad " , 
+        "industria " , "san martin " , "san lazaro " , "crespo y aguila " , "san lazaro " , "escobar " , "Hospital Ameijeiras" , "san francisco " , "universidad de la habana " , 
+        "hospitales calixto garcia " , "hospitales del vedado "
+                
+    ],
+        "ida":[
+
+            "calle 16 ","calle b " ,"calle 11 ","aguilera " ,"porvenir " , "Calzada de luyano ", "Villanueva " , "gancedo " , "fabrica " ,"arroyo " ,"belascoain " , "reina ",
+            "industria " , "san jose " , "prado " , "san lazaro " , "calle 27 nov " , "Universidad" , "calle g " , "Avenida 27"
+                       
+        ],
+        "regreso":[
+            "Avenida 23","calle p","infanta ","calle san lazaro ","galiano ","reina ","belascoain ","calle arroyo ","gancedo ","Villanueva ","Concha","fabrica ",
+            "Calzada.luyano ","porvenir ","aguilera ", "calle 11 ","calle d ","calle 14 ","calle b " 
+        ] 
+},
+"25":{
+       "parada":[
+        "Calle 4", "Calle A", "Carabalo", "Calle E", "Calle A", "San francisco", "Las marias", "La rosita", "Garita del diezmero", "La cumbre",
+        "Dolores", "Carretera Lucero y Cortes", "Calle 6", "Calle 2", "Calzada Managua", "Calle Giral", "Policlinico mantilla", "La palma", "San gregorio y Minas", "Calle Holguin", "Calle C",
+        "Calle A", "Calle 23", "Dos Rios", "Circulo infantil", "Calle 16"
+                
+    ],
+        "ida":[
+              "Calle 16", "Dolores", "Calle 23", "Dos Rios", "Giralt", "Calle A", "Rodriguez de Armas", "Alegria", "San Gregorio", "porvenir ", "Calzada Managua", "Progreso", "Avenida 5", "Lucero",
+              "Calzada Guines", "Caraballo", "Calle 4"         
+        ],
+        "regreso":[     
+            
+        "calle 4 " , "caraballo " , "Calzada. guines " , "dolores " , "ctra. lucero "  , "calle 6 " , "progreso " , "ctra. managua " ,"porvenir " , "san gregorio " , 
+        "alegria " , "rdgues de armas " , "calle a " , "giralt " , "dos rios " , "calle 23 " , "dolores " , "calle 16 "
+
+           
+        ] 
+},
+"A27":{
+       "parada":[
+       "Desamparados y Habana", "Alameda de Paula", "AvenidaDe Puerto", "Cuba y Pena pobre", "Hotel Sevilla", "Capitolio", "Zanja y Rayo", "Zanja y Gervasio", "belascoain", "Parque Trillo",
+       "Cine astral", "universidad de la habana ", "Linea y K", "Maternidad y Linea", "teatro mella", "linea y 12 ", "Calle 14 entre Linea y Calzada", "Calle 12 y Avenida15", "Calle 12 y Avenida23", "Zapata y Pasaje Kholy",
+       "Acapulco", "Zoologico", "Hospital clinico quirurgico", "Ciudad Deportiva", "Palatino", "Palatino y Agua"        
+    ],
+        "ida":[
+              "Via blanca y boyeros", "Avenida 26", "Puente Grandes", "Avenida 41", "Calle G entre 25 y 27", "Zanja y Oquendo", "Monte y Zilueta", "Desamparados y habana"         
+        ],
+        "regreso":[
+           "Desamparados", "Cuba y pena pobre", "Zulueta y Animas", "Zanja y Espada", "Calle Linea y H", "Calle Linea y Paseo", "Calle Linea y 16", "Calle 12 esquina a 23", "Avenida 26 y Zoologico",
+           "Avenida 26 y Boyeros", "via blanca y Palatino"
+        ] 
+},
+"34":{
+       "parada":[
+        "Terminal de Trenes", "Egido y Luz", "Parque de la Fraternidad","Yumuri", "Hospital Emergencias", "Carlos III y pozos dulces",  "hospital Manuel Fajardo",
+         "zapata y paseo", "cupet Zapata y 4", "cementerio Colon", "Avenida 12", "tunel linea", "terminal Miramar", "parque 31 y 30", "31 y 56",
+          "51 y 66", "ceguera", "pediatrico marianao", "obelisco",  "61 y calle 126", "calle 126 y 91", "calle 95",
+           "96 y 71", "calle 132 y calle 67",
+           "calle 132 y calle 57",
+           "51 y 136", "49 y 56", "terminal Lisa"       
+    ],
+        "ida":[
+               "Calle 158", "Avenida 51", "Avenida 57", "Calle 128", "Avenida 97", "Calle 126", "Avenida 95", "Calle 124", "Avenida 49", "Calle 130", "Avenida 35", "Calle 114", "Avenida 31", "Linea", "Calle 12", "Zapata",
+               "Salvador Allende", "Reina", "Cienfuegos", "arsenal"        
+        ],
+        "regreso":[
+           "Arsenal", "Egido", "Monte", "Reina","Salvador Allende", "Zapata", "Calle 12", "Linea", "Avenida 31", "Calle 114", "Avenida 35", "Calle 130","Avenida 61", "Calle 126", "Avenida 95", "Calle 128", "Avenida 97", "Avenida 71", "Calle 132", "Avenida 51", "Calle 150", "Avenida 49", "Calle 160"     
+   ] 
+},
+"36":{
+       "parada":[
+            "La Lisa","Hospital Frank Pais", "Policlinico La lisa", "La vereda", "Cinco Palmas", "51 y 250", "Arroyo Arenas", "Bar Maderas",
+            "Novia del Mediodia", "Carretera Central y 332", "Carretera Central y 338", "Carretera Normalizacion", "Reparto XX Aniversario", "Carretera Central y Calle 36",
+            "Punta brava"
+    ],
+        "ida":[
+            "Avenida 51",
+            "Avenida 251", 
+            "calle 243",
+            "Avenida 251", "punta brava"           
+        ],
+        "regreso":[
+            "Calle 44", 
+            "calle 330", 
+            "Avenida 51", 
+            "calle 160"
+        ] 
+},
+"37":{
+       "parada":[
+                "Terminal Miramar", "Tunel de linea", "linea y 12 ", "teatro mella", "Maternidad y Linea", "Clinica Camilo Cienfuegos", "Calle M y Calle 27", "Cine astral",
+                "Hospital Emergencias", "Pediatrico C.Habana", "Parque la normal", "Infanta y estevez",
+                "Esquina de Tejas", "La dependiente", "Toyo", "Santa Emilia y san Benigno", "Paz y Gral Lee",
+                "Juan Delgado Y estrada Palma", "Santa Catalina", "santa Catalina y luz Caballero", "Santa Catalina y Parraga",
+                "Vibora", "Acosta y Poey", "andres", "Estacion de policia de acosta", "Dolores y 15", "Calle 16 y Calle a"
+    ],
+        "ida":[
+           "Calle 16", "Dolores", "acosta", "10 de Octubre", "Santa Catalina", "mayia rodriguez", "Zapote", "Paz",
+           "Santo Suarez", "10 de Octubre", "Cristina", "Arroyo", "Manglar", "Infanta", "san lazaro",
+           "Calle L", "Linea", "Tunel", "Avenida 31"            
+        ],
+        "regreso":[
+           "Avenida 5", "Calle 2", "Avenida 7", "Calle 6", "Avenida 31", "Tunel", "Linea", "Calle M",
+           "San Lazaro", "Infanta", "10 de Octubre", "Santa Emilia", "Paz", "Mayia Rodriguez", "Santa Catalina", "acosta", "Heredia",
+           "San Miguel", "dolores", "Calle 16"
+        ] 
+},
+"A33":{
+       "parada":[
+             "Hospital clinico quirurgico", "Zoologico", "Cubacontrol", "Acapulco", "23 y 26", "Avenida 26 y 17", "Avenida 17 entre 18 y 16", "Avenida 12 entre 13 y 15",
+             "Tunel de linea", "Terminal Miramar", "Teatro Karls marx", "Maqueta de La Habana", "La copa", "Calle 60 y Avenida5", "Avenida 13", "Avenida 21", "Avenida 29 y Calle 62",
+             "Calle 29 y Calle 68", "Funeraria","Ceguera",
+             "Pediatrico Marianao", "Obelisco", "Hospital Militar", "Avenida 35 y Calle 122" , "Plaza de Marianao",
+             "51 y 136", "La lisa"  
+    ],
+        "ida":[
+                "Calle 158", "Avenida 51", "Calle 124", "Avenida 35 Calle 114", "Avenida 31",
+                "Calle 72", "Avenida 39", "Calle F", "Calle 70",
+                "Avenida 29", "Calle 60", "Avve.3", "Calle 10",
+                "Linea", "Calle 12", "Zapata", "Avenida 26", "Clinico de 26"       
+        ],
+        "regreso":[
+           "Avenida 26", "Calle 17", "Calle 12", "Linea", "Avenida 31", "Calle 10", "Avenida 3", "Calle 42", "Avenida 1", "Calle 60", "Avenida 29", "Calle 70", "Avenida 29", "Calle F",
+        "Calle 74", "Avenida 31", "Calle 114", "Avenida 35", "Avenida 51", "Calle 158"  
+         ] 
+},
+"40":{
+       "parada":[
+       "santa fe" , "Avenida 7 y 296 " , "policlinico ", "Avenida 5 y 282 ", "J.M.Martinez" , "la estrella ", "calle 190 y ave .17", "siboney ", "muneca", 
+       "parqueo el pedregar" , "altura de la coronela ", "la vereda ", "Policlinico La lisa" , "Hospital Frank Pais" , "terminal Lisa"
+                
+    ],
+        "ida":[
+                "Avenida 51" , "Avenida 39 ", "calle 212" , "Avenida 27" , "calle 190 ", "Avenida 5 " , "calle 286"  , "Avenida 1"  , "calle 306"  
+        ],
+        "regreso":[
+            "calle 306 ", "Avenida 7 " , "Avenida 5 " , "calle 190" , "Avenida 27 ", "calle 212 ", "Avenida 39" , "Avenida 51 ", "calle 160 "
+           
+        ] 
+},
+"43":{
+       "parada":[
+        "Reparto Barbosa", "medsol", "escuela del pcc", "san agustin ", "policlinico san agustin ", "240 y 39 ", "calle 240 y Avenida53", "combinado vidrio ", "bello 26", 
+        "calle 81 y 218 ", "cementerio de la lisa ", "calle 81 y 162", "158 e/calle 53 y Avenida51 ", "51 y 138 ", "afiteatro de marianao ", "51 y 114", "Avenida 51 y 92", "la copita ", 
+        "la ceiba ", "alturas belen ", "La Papelera", "puentes grandes y garaje cupet ", "Hospital clinico quirurgico","cerro y boyeros " , "primelles ", "yumuri ", "Parque de la Fraternidad", "Terminal de trenes"
+        
+                
+    ],
+        "ida":[
+            "Avenida 23 ", "calle 272", "Avenida 27", "calle 264", "Avenida 31 ", "calle 240 ", "Avenida 81" ,"calle 158", "Avenida 51", "puentes grandes ", "Calzada Cerro", 
+            "ferrer", "ayesteran ", "salvador allende", "reina","monte" , "Cienfuegos","arsenal"
+                       
+        ],
+        "regreso":[
+            "arsenal ", "egido ", "monte ", "reina ", "salvador allende", "ayestaran ", "ferrer", "Calzada.cerro", "Ptes. Grandes", "Avenida 51", "calle 150 ",
+            "Avenida 49", "calle 160 ", "Avenida 81", "calle 240", "Avenida 31", "calle 264", "Avenida 27", "calle 272", "Avenida 23"
+        
+           
+        ] 
+},
+"A44":{
+       "parada":[
+            "Hospitales del Vedado",
+            "omnibus nacionales",
+            "Colon y Marino",
+            "Panorama y Lombillo",
+            "Tulipan entre 45 y 47",
+            "Tulipan y Conill B",
+            "Calle 37 y Ave 26",
+            "Calle 37 y Calle 30",
+            "Calle 42 entre Calle 39 y Calle 41",
+            "Calle 42 entre Ave Zoologico y Calle 47",
+            "Calle 42 entre Calle 30 y Santa Teresa",
+            "Calle 42 entre Santa Maria y Ave 51","Boyeros",
+            "Hospital Clinico Quirurgico", "Puentes Grandes",
+            "Coupet", "Papelera",
+            "La Ceiba", "ITM",
+            "Avenida 51 y Calle 84",
+            "La Copita" ,"100 y 51",
+            "51 y 114", "Plaza de Marianao",
+            "51 y 136 Lisa",
+            "Hospital Fran Pais",
+            "Policlinico La Lisa",
+            "La Vereda", "Cinco Palmas", "140 y Ave 53",
+            "Combinado Vidrio Bello",
+            "26 Calle 81 y 218" ,"Cementerio de La Lisa",
+            "Calle 81 y Calle 200",
+            "Calle 200 y Calle 97",
+            "Calle 81 y 196",
+            "Calle 81 y Calle 162",
+            "Calle 158 y Calle 57" 
+    ],
+        "ida":[
+            "calle 160 ", "Avenida 81", "Calle 200", "comunidad la victoria",
+             "Avenida 81", "calle 240", "Avenida 51", "puentes grandes", "calle 42", "calle 30", "Calle 37", "Avenida 26", "Conill", "calle 47",
+              "tulipan", "Hidalgo", "AvenidaColon","AvenidaCarlos M.Cespedes", "boyeros", "calle g", "G y 25"
+                       
+        ],
+        "regreso":[
+            "calle g y 25", "Zapata", "AvenidaCarlos Manuel de Cespedes", "AvenidaColon", "panorama", 
+            "tulipan", "Avenida 26", "Calle 37","calle 30", "calle 42", "AvenidaPuente Grande", "Avenida 51", "calle 240", 
+            "Avenida 81", "calle 200 ","comunidad la victoria",
+             "calle 200", "Avenida 81", "calle 71", "calle 158", "Avenida 53"
+        ] 
+},
+"45":{
+       "parada":[
+             "Comunidad Lugardita", "159 y Calle 237",
+    "Escuela Boyeros",
+    "Combinado Avicola",
+    "Caserio Aguado del Cura",
+    "Instalacion de la Papa",
+    "Finca Tahona",
+    "Finca La Gloria",
+    "Las Katiuska",
+    "Entroque", "Combinado Avicola",
+    "Aeropuerto", "Terminal 1",
+    "Instituto Preuniversitario Primero en Mayo",
+    "Mulgoba",
+    "Santiago",
+    "Parque Santiago",
+    "Santiago de Las Vegas"
+    ],
+        "ida":[
+               "Carretera del Rincon", "Calle 413", "Calle 184", "Carretera Cacaguari", "Calle 60 Avenida55", "Calle 54", "61", "Santa Susana", "Calle 188", 
+               "boyeros", "Avenidavan Troy", "carretera escuela agricultura","comunidad aguado del cura", "van Troy", "boyeros",
+                "calle 289", "calle 159", "comunidad lugardita "        
+        ],
+        "regreso":[
+            "Comunidad lugardita","calle 159", "boyeros", "comunidad aguada cura", "carretera escuela agricultura", "van Troy", "boyeros", "calle 188"
+        ] 
+},
+"54":{
+       "parada":[
+        "Lawton", "policlinico de Lawton", "parque Dolores", "cocos toyo" ,"10 de octubre y serafines",
+         "la lechera", "Cuatro Caminos", "parque la normal", "pediatrico de Centro Habana", "hospital emergencias", "zanja", "oquendo y gervasio",
+          "zanja y rayo", "parque el curita"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"46":{
+       "parada":[
+        "Escuela Revolucion",
+        "Jardin Botanico Nacional",
+        "Carreteras ExpoCuba y Riveras",
+        "Carretera El Globo y 351",
+        "Carretera El Globo y Entrada",
+        "Carretera El Globo y Reparto Esperanza",
+        "FCA de Tejidos Bejucalli",
+        "Calle 287",
+        "Calle 289 y Calle 134",
+        "Danger Cementerio de Calabazar",
+        "Nazareno Medina",
+        "Calle 289 y Calzada de Mazorra",
+        "Teatro Boyeros",
+        "Instituto Preuniversitario Primero de Mayo",
+        "Mulgoba",
+        "El Paso",
+        "Parque Santiago",
+        "Santiago de Las Vegas"
+    ],
+        "ida":[
+            "carretera Rincon", "calle 413", "calle 188", "calle 184", "calle 289", "calle 283", "carretera de globo",
+             "carretera ExpoCuba", "carretera de Rocio", "finca El Rocio"        
+        ],
+        "regreso":[
+            "carretera el Rocio", "carreteras ExpoCuba", "carretera globo", "calle 281", "calle 114", "calle 289", "calle 184", "calle 188", "calle 413"
+        ] 
+},
+"55":{
+       "parada":[
+                "Barbosa Medzol",
+    "escuela del pcc", "San Agustin",
+    "Cupet San Agustin",
+    "Supermercado 222",
+    "Pedregal",
+    "Instituto Finlay",
+    "Genetica" ,"Avenida 31 y 158",
+    "Escuela Medicina Giron",
+    "Av.25 y 132",
+    "Repalto Zamora",
+    "Hospital Militar",
+    "Obelisco", "Pediatrico Marianao",
+    "Ceguera", "55",
+    "Tropicana",
+    "Cine Avenida41 y 42",
+    "Reparto Coli", "23 y 26",
+    "23 y 12",
+    "23 y Paseo",
+    "Hospitales del Vedado",
+    "Copelia", "Rampa",
+    "Hospitales Almejeiras",
+    "San Lazaro"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A67":{
+       "parada":[
+                "Fomento",
+    "Palatino",
+    "Ciudad Deportiva",
+    "Cerro",
+    "Boyeros",
+    "Tulipan",
+    "Hidalgo entre el Lombillo y San Pedro",
+    "Hidalgo y Colon",
+    "Teatro Buen Dia",
+    "Aduana General",
+    "AvenidaColon y Marino",
+    "omnibus Nacionales",
+    "Hospital Calixto Garcia",
+    "San Lazaro y San Francisco",
+    "Hospitales Almejeiras",
+    "San Lazaro",
+    "Escobar", "Galiano",
+    "Colon y Crespo",
+    "La Punta",
+    "La Cabana",
+    "Hospital Naval",
+    "Los Tres Picos",
+    "Via Tunel y Calle 82",
+    "Terminar Bahia"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"69":{
+       "parada":[
+                "Playa Romerillo",
+    "19 y 84",
+    "19 y 70",
+    "19 y 62",
+    "19 y 44",
+    "42 y 23",
+    "Oro Negro de 42 y 39",
+    "Reparto Colli",
+    "25 y 28",
+    "Acapulco",
+    "Zoologico",
+    "Hospital Clinico Quirurgico",
+    "Heladeria Word",
+    "Fabrica Refresco",
+    "Iglesia de Ghost",
+    "Santa Catalina de Entrapes",
+    "Santa Catalina y Luz Caballero",
+    "Santa Catalina y Parraga",
+    "Dolores y Delicias",
+    "Dolores y Armas",
+    "Policlinico de Lawton",
+    "Dolores y 15"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A87":{
+       "parada":[
+        "Fortuna",
+        "Puente Calabazar",
+        "Calle 100 y Carretera Lenin",
+        "AvenidaFlores",
+        "AvenidaAlmendros",
+        "Secundaria Cienfuegos entre Septima y Quinta",
+        "Cienfuegos y Avenida3",
+        "Reparto Electrico",
+        "Puente Calvario",
+        "13 de Marzo",
+        "Fernando y Longa",
+        "Fernando y Morris",
+        "San Agustin",
+        "Silvia",
+        "Silvia y Carlos",
+        "Parraga",
+        "Menocal y Calzada de Bejucal",
+        "Arday y Cuba",
+        "Cuba entre Tuinicu y 2da",
+        "Finlay y San Antonio",
+        "Finlay y Asuncion",
+        "Finlay y Morales",
+        "Finlay entre 8 y 10",
+        "Finlay y Avenida2",
+        "Naranjito",
+        "Camagüey",
+        "Vento",
+        "Calle 11 y Reforma",
+        "Calle 11 y Calle 2",
+        "Ceiba y Palmar",
+        "Primeras y Avenida Norte",
+        "Ciudad Deportiva"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"88":{
+       "parada":[
+        "Calle 16 y Pocito", 
+        "Acosta entre 9 y San Francisco",
+    "Acosta y Anastasio",
+    "Vibora", "Poli Cake", "Quesel y Calle 2",
+    "Quesel y AvenidaPorvenir",
+    "Quesel y Lourdes",
+    "Lourdes y San Gregorio",
+    "Calle Mina y Cda. Managua",
+    "Calle Arnau y Calle Saco",
+    "Calzada San Agustin",
+    "Woodbury",
+    "Calzada San Agustin",
+    "Estrella San Agustin",
+    "Silvia",
+    "Fernando y Morris",
+    "Fernando y Cda. Managua",
+    "Calzada Managua y Pilar",
+    "13 de Marzo",
+    "Puente Calvario",
+    "Reparto Electrico",
+    "Cienfuegos y 3",
+    "Cienfuegos y 7",
+    "La Secundaria",
+    "AvenidaAlmendras y Ave Flores",
+    "Calle 100 y Carretera",
+    "Parque Lenin",
+    "Puente Calabazar",
+    "Palacio de Los Pioneros",
+    "Puesto de Mando",
+    "Carretera Parque Lenin y Linea", "Ferrocarril",
+    "Carretera del Globo y 35", "Calle 1",
+    "Carretera Guasimas y Carretera Rocio",
+    "Carretera ExpoCuba y Chiveras",
+    "Expocuba",
+    "Carretera de Rocio y Escuela Revolucion",
+    "Finca de Rocio"        
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"91":{
+       "parada":[
+              "Cinco Palmas", "140 y Avenida53",
+    "Combinado Vidrio Bello",
+    "26", "calle 81 y 218",
+    "Cementerio de La Lisa",
+    "Calle 81 y 196",
+    "Calle 81 y Calle 162",
+    "Calle 156 y Calle 53",
+    "51 y 138",
+    "Anfiteatro de Marianao",
+    "51 y 114",
+    "Calle 100",
+    "Obelisco", "Hospital Militar",
+    "Calle 35 y 122",
+    "Calle 130 entre 33 y 31",
+    "Victoria Giron",
+    "Calle 146 y Avenida23",
+    "Avenida 23 y Calle 140",
+    "Avenida 23 entre Calle 110 y 120",
+    "Escuela Nacional de Arte", "Playa"  
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"92":{
+       "parada":[
+         "Playa", "Nautico",
+    "Escuela Martires de Giron",
+    "Pavezpo",
+    "Escuela Martires del Corinthia",
+    "Simec",
+    "FCA Queso",
+    "B15 y Las Praderas",
+    "Isaic",
+    "Cupet San Agustin",
+    "Calle 250 y 23", "Agustin",
+    "Escuela del PSC Medzol",
+    "Reparto Barbosa",
+    "Granja Avicola", "Camilitos",
+    "Calle 274 y Calle 39",
+    "Calle 274 y Calle 43",
+    "Calle 274 y Calle 49",
+    "Bar Maderas",
+    "Novia del Mediodia",
+    "Calle 330 entre 53 y 55",
+    "La Concepcion",
+    "Calle 330 y Linea", "Ferrer",
+    "Carretera del Guatado",
+    "Reparto Valle Grande",
+    "Carretera del Guatado Tres",
+    "Carretera del Guatado y Calle Corta",
+    "Carretera del Guatado y Calle Escuela",
+    "Carretera del Guatado y 279",
+    "Carretera del Guatave",
+    "Calle 1", "Punta Brava"       
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"93":{
+       "parada":[
+                "Cupet San Agustin", "ICAIC", "FCA Queso", "Calle 224", "Avenida 11",
+                "Calle 9 entre 222 y 220", "Calle 9 y 216", "Hospital Cimeq", "Bodega",
+                "La estrella", "Los marinos", "Jaimanita", "Asilo", "Calle 258 y 5", "Playa", "nautico", "flores", "la ferminia",
+                 "escuela ave 9 y 216", "Avenida 9 entre 220 y 222", "calle 224 y ave 11", "FCA Queso", "Avenida 15 y la pradera",
+                 " icaic", 
+                "Cupet San Agustin", "calle 250 y 23", "San Agustin", "escuela del psc", "metzol", "reparto Barbosa"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"113":{
+       "parada":[
+               "Barbosa", "Medzol", "escuela del pcc", "San Agustin", "policlinico san agustin", "240 y 39", "Calle 240 y Avenida53", "combinado vidrio", "bello 26", "Calle 81 y 218", "Cementerio de La Lisa",
+               "Calle 81 y 196", "Calle 81 y 162", "158 entre calle 53 y Avenida51", "51 y 138", "Anfiteatro de Marianao", "51 y 114", "100 y 51", "Linea FCC", "Autopista Pinar del Rio", "100 y boyeros",
+               "Hospital William soler", "Calle 100 y Nunez", "Fortuna", "Puente Calabazar", "Palacio de Los Pioneros", "Puesto de Mando",
+            "Carretera Parque Lenin y Linea Ferrocarril", "El rodeo", "Carretera Parque Lenin y Carretera el globo", "Carretera guasimas y el rocio", "Carretera expocuba y chiveras", "Carretera expocuba y carreterrra guasimas", "Carreterrras guasimas y jardin botanico",
+            "Carretera guasimas y escuela Lenin", "Carretera guasimas y fabrica de pilas", "Carretera guasimas", "Calzada Managua", "Callejon del Matadero "
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A14":{
+       "parada":[
+            "Palatino y lutgrada", "Ciudad Deportiva", "hospital Manuel Fajardo", "Parque el Pescado", "Calle 11 y Calle 2", "Calle 11 y Reforma", "Camagüey yPastora",
+            "Camagüey y Vento", "Vento y calle 4", "Vento y Rodriguez Morini", "Vento y Embill",
+            "Perla y calle 100", "Calle H y Rodriguez Morini", "Calle H y calle 1", "Calle 1 y Perla",
+            "Cerro pelado", "Hospital William soler", "100 y aldabo", "Hospital Nacional", "Los bloques", "Boyeros y calle sur",
+            "Cap de Vila", "Entronque Cujae", "Reparto Maria del Carmen", "Fontanar", "Minimax", "Avenida 229 y calle 210", "El tanque", "Avenida 229 y 222", "Calle 228", "Calle 227", "Calle 221"    
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"160":{
+       "parada":[
+              "santiago de las vegas " , "parque santiago " , "el paso ", "Mulgoba", "Primero de Mayo", "escuela jose marti ","Aeropuerto", "Terminal 1", "herradura ",
+              "boyeros ", "Mazorra", "la colonia ", "Fontanar", "Reparto Maria del Carmen", "Entronque Cujae", "Capdevila", "reloj club ", "Los bloques", "Hospital Nacional", "100 y aldabo", "Hospital William soler", "100 y boyeros",
+              "punte nuevo ", "linea ffcc", "100 y 51", "calle 100 ", "obelisco", "pediatrico marianao", "ceguera"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A70":{
+       "parada":[
+        "Hospital Frank Pais", "lisa ", "51 y 138 ", "afiteatro de marianao ", "las brisas ", "los angeles ", "Cujae", "Escuela de Enfermeria", "caretera cujae y base de transtur ",
+        "Entronque Cujae", "Capdevila", "reloj club ", "100 y boyeros", "organoponico ", "Calzada Camaguey y calle canal ", "Calzada camaguey y calle 13 ",
+        "camaguey y vento ", "naranjito ", "sevillana ", "Acosta y Poey"
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"174":{
+       "parada":[
+               "Lawton",
+    "Iglesia Santa Clara",
+    "Porvenir",
+    "Dolores",
+    "Hermano Gomez Acosta",
+    "Santa Anastasia", "Acosta",
+    "Poe Monaco",
+    "Palacio Matrimonio" ,"Mayia Rodriguez",
+    "Milagro Maria Rodriguez",
+    "L Estevez Vento",
+    "Palatino",
+    "Ciudad Deportiva",
+    "Cerro", "Boyeros",
+    "MiTrans omnibus Nacionales",
+    "Hospital Calixto Garcia",
+    "Universidad de La Habana",
+    "Linea y K",
+    "Maternidad de Linea",
+    "Linea y F" 
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"177":{
+       "parada":[
+                "Santiago de Las Vegas",
+    "Parque Santiago",
+    "El Paso",
+    "Molgoba",
+    "Primero de Mayo",
+    "Escuela Jose Marti",
+    "Aeropuerto", "Terminal 1",
+    "Sierra Maestra",
+    "Calzada Bejucal y Carretera Mazorra",
+    "Medina Nazareno",
+    "Calle 289 y Calle 140",
+    "Berenguer",
+    "Calzada de Bejucal y 287",
+    "Calzada de Bejucal y Bernal",
+    "Zoologico",
+    "Calle 8 y Trebol",
+    "Calle Soto y AB5",
+    "Calle Soto y Trebol",
+    "Calle Sodio y Calle C",
+    "Calle Soto y Cda. Bejucal",
+    "Parajon",
+    "Calzada de Bejucal y Roosevelt",
+    "Puente Calabazar",
+    "Calle 100 y Arday", "Arday",
+    "Calle E y 2",
+    "Varona entre 12 y E",
+    "CIPMM Camilitos",
+    "Carretera Capdevila",
+    "Escuela de Oficios Bandera",
+    "Escuela Montaje y Cinco Palmas",
+    "Cupet Capdevila",
+    "Entronque Cujae",
+    "Carretera Cujae",
+    "Base de Transtur",
+    "Escuela Enfermeria", "Cujae"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"179":{
+       "parada":[
+             "Playa",
+    "Oficina de Correos", "Casa Central",
+    "3 y 70",
+    "La Copa",
+    "Calle 42 y Avenida11",
+    "42 y 23",
+    "Oro Negro",
+    "42 y 39",
+    "Reparto Colli",
+    "25 y 28",
+    "Acapulco",
+    "Zoologico",
+    "Hospital Clinico Quirurgico",
+    "Ciudad Deportiva",
+    "Palatino",
+    "Fruticuba",
+    "Via Blanca entre Gomez y Paz",
+    "Via Blanca y Rabby",
+    "Via Blanca y Villanueva",
+    "Via Blanca y Rosa Enrique",
+    "Via Blanca y Micons",
+    "Virgen del Camino"   
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"180":{
+       "parada":[
+                "Avenida 51", "Calle 170",
+    "Hospital Frank Pais",
+    "Policlinico La Lisa",
+    "La Vereda",
+    "Calle 222 y Avenida31",
+    "Instituto de Farmacia y Alimentos",
+    "Supermercado 222",
+    "Cupet San Agustin",
+    "Avenida 23 y Metzol",
+    "Reparto Barbosa",
+    "Avenida 23 y Carretera Nina Bonita",
+    "Carretera Nina Bonita y Puente",
+    "Carretera Nina Bonita y P. Forraje",
+    "Carretera Nina Bonita y Fabrica de Queso",
+    "Carretera Nina Bonita y Cangrejeras",
+    "Carretera Nina Bonita y Punto de Control",
+    "Poblado Lazo de La Vega",
+    "Carretera Santa Fe e Hidraulica",
+    "Carretera Santa Fe y Finca Tahoro",
+    "Carretera Santa Fe y Funeraria",
+    "Carretera Santa Fe y Transtur",
+    "Santa Fe", "Calle 308 entre 7 y 5",
+    "Avenida 7 y 296",
+    "Carretera Punta Brava y Vaqueria",
+    "Carretera Punta Brava y Palomar",
+    "Carretera Machurucuta",
+    "Carretera Punta Brava Pueblo Machurucuta",
+    "Carretera Punta Brava", "Calle 50 y Calle 239",
+    "Punta Brava"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"191":{
+       "parada":[
+              "Playa", "Nautico",
+    "Flores",
+    "Avenida 5 y Calle 184",
+    "La Estrella",
+    "Los Marinos",
+    "Jaimanita",
+    "Marina Hemingway",
+    "Asilo", "10 de octubre y serafines",
+    "JM Marques",
+    "Avenida 5 y 280",
+    "Avenida 7 y Calle 284",
+    "Avenida 7 y 294",
+    "Avenida 7 y 296",
+    "Calle 308 entre 7 y 5",
+    "Santa Fe"  
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"192":{
+       "parada":[
+             "Playa", "Nautico",
+    "Flores",
+    "Avenida 5 y Calle 184",
+    "La Estrella",
+    "Los Marinos",
+    "Jaimanita",
+    "Asilo", "Ramiritos",
+    "JM Marques",
+    "Mercado",
+    "Escuela Primaria",
+    "Granja Avicola",
+    "Complejo Docente Vilma Espin",
+    "Caserio Las Praderas",
+    "ICAIC",
+    "Cupet San Agustin",
+    "Calle 250 y 23",
+    "Escuela de PSC Medsol",
+    "Reparto Babosa",
+    "Gran Avicola Camilitos",
+    "Calle 274 y Calle 39",
+    "Calle 274 y Calle 43",
+    "Calle 274 y Calle 49",
+    "Bar Maderas",
+    "Novia del Medio Dia",
+    "Carretera Central y 332",
+    "Carretera Central y 338",
+    "Carretera Normalizacion", "Reparto XX Aniversario",
+    "Carretera Central y Calle 36",
+    "Punta Brava"   
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"193":{
+       "parada":[
+                "Playa", "Nautico",
+    "Escuela Martires de Giron",
+    "Pavexpo",
+    "Calle 190 y Avenida21",
+    "Avenida 23 y Calle 214",
+    "Calle 218 y Avenida21",
+    "Avenida 19 y Calle 212",
+    "CIMEQ",
+    "Escuela Martires de Corintia",
+    "Inmobiliaria Simona",
+    "Calle 190 y Avenida13",
+    "La Estrella",
+    "Los Marinos",
+    "Policlinico"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A35":{
+       "parada":[
+        "Calzada de San Miguel y los aliados",
+        "Calzada de San Miguel y calle central",
+        "Calzada de San Miguel y montesino",
+        "Calzada de San Miguel y Cda. de Guines",
+        "La Cumbre",
+        "Cuatro ruedas",
+        "Cupet Dolores",
+        "Circulo infantil Lawton",
+        "Acosta entre 9 y San Francisco",
+        "Acosta y San anastasio",
+        "Acosta y Poey",
+        "Monaco",
+        "Mercado del Monaco",
+        "Naranjito",
+        "Vento y Calle 4",
+        "Vente Rodriguez Morini",
+        "Vento y Enbill",
+        "Vento y Calle 10",
+        "Boyeros y Calle Sur",
+        "Capdevila",
+        "Entroque Cujae",
+        "Carretera Cujae y Base de Transtur",
+        "Escuela Enfermeria", "Cujae"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A81":{
+       "parada":[
+             "Palatino y lutgrada", "Primelle y Velarde", "Primelle y Canongo", "Cerro y boyeros", "Ciudad Deportiva", "Reparto Marti", "organoponico ", "100 y boyeros",
+             "reloj club ", "Boyeros y calle sur", "Capdevila", "Entronque Cujae", "Reparto Maria del Carmen", "Fontanar", "Hospital Julio Diaz", "Avenida 243 y Calle 234", "Avenida 26 de julio y calle 237",
+             "Avenida 26 de julio y 249", "calle 249 y 242", "Calle 247 y 26 de julio", "Calle 243 y 26 de julio", "Unidad Militar", "Campo de Antena", 
+             "Avenida 276 y 269", "Guajai", "Avenida 276 y Carretera de Murgas", "Avenida 266 y Carretera Santa Cecilia",
+             "Santa Cecilia y Final"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"222":{
+       "parada":[
+          "Parque de la Fraternidad",
+    "Zanja y Rayo",
+    "Zanja y Gervasio",
+    "Belascoain",
+    "Parque Trillo",
+    "Cine Astral",
+    "Universidad de La Habana",
+    "Copelia",
+    "Hospitales del Vedado",
+    "23 y Paseo",
+    "23 y 12",
+    "23 y 26",
+    "Reparto Coli",
+    "41 y 42",
+    "Ceguera",
+    "Pediatrico Marianao",
+    "Obelisco",
+    "100 y 51",
+    "51 y 114",
+    "Plaza de Marianao",
+    "51 y 136",
+    "Calle 49 y 156",
+    "Terminal de Lisa"      
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"420":{
+       "parada":[
+                "Playa", "Nautico",
+    "Flores",
+    "La Estrella",
+    "Jaimanita",
+    "Asilo" ,"Ramiritos",
+    "JM Marques",
+    "Avenida 7 y 284",
+    "Avenida 7 y 294",
+    "Santa Fe",
+    "Avenida 7 y 314",
+    "Avenida 7 y 318",
+    "Avenida 7 pasando punto de control Elam",
+    "Doble via y los bloques",
+    "Hotel Delicias",
+    "Avenida 1 y 160",
+    "Avenida 1 y Rio",
+    "Club Baracoa"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"436":{
+       "parada":[
+                "Lisa", "Hospital Frank Pais",
+    "Policlinico La Lisa",
+    "La Vereda",
+    "Cinco Palmas",
+    "51 y 250",
+    "Arroyo Arenas",
+    "Bar Maderas",
+    "Novia del Medio Dia",
+    "Calle 330 entre 53 y 55",
+    "La Concepcion",
+    "Calle 330 y Linea Ferrer",
+    "Carretera del Guatao",
+    "Reparto Valle Grande",
+    "Carretera del Guatao y 3",
+    "Carretera del Guatao y Calle Corta",
+    "Carretera del Guatao y Calle Escuela",
+    "Carretera del Guatao y 279",
+    "Carretera del Guatao y Calle 1",
+    "Punta Brava"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"440":{
+       "parada":[
+               "Santiago de Las Vegas", "Calle 409 y Calle 212",
+    "Carretera del Guajai y Nuevo Santiago",
+    "Carretera del Guajai y Vagueria",
+    "Poblado La China", "Carretera del Guajai y Cementerio",
+    "Carretera del Guajai y La Gloria",
+    "Carretera del Guajai y Fabrica Muebles",
+    "Carretera de Murgas y Turbina",
+    "Murgas y Finca Miranda",
+    "Carretera de Murgas y Cochiquera",
+    "Carretera de Murgas y Linea FFCC",
+    "Carretera de Murgas y Tanque de Agua",
+    "Carretera de Murgas y Parque Murgas",
+    "Avenida 276 y Carretera Santa Cecilia",
+    "Santa Cecilia y Final",
+    "Carretera Santa Cecilia y Avenida276",
+    "Carretera del Guajai y Plan Avicola",
+     "Avenida 276 y Carretera de Murgas",
+    "Carretera Prensa Latina", "Pasado 243",
+    "Carretera Prensa Latina y Caserio",
+    "Carretera Prensa Latina y El Cable",
+    "El Chico", "Almacenes Transiport",
+    "Carretera Chico y Base de Fletes",
+    "Carretera Chico y Calle 278",
+    "Carretera Chico y Carretera Caimito",
+    "Carretera Chico y C de Oficiales",
+    "Carretera Chico y El Chico",
+    "Carretera de Torrens entre 290 y 292",
+    "Carretera de Torrens y Calle 296",
+    "Carretera de Torrens y Calle 302",
+    "Carretera Torres entre 302 y 304",
+    "Carretera de Torrens y Autopista Mediodia" 
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"450":{
+       "parada":[
+                "Santiago de Las Vegas",
+    "Parque Santiago",
+    "El Paso",
+    "Mulgoba",
+    "Primero de Mayo",
+    "Escuela Jose Marti",
+    "Aeropuerto", "Terminal 1",
+    "Herradura",
+    "Boyeros",
+    "Mazorra",
+    "La Colonia", "Fontanal",
+    "Mini Max",
+    "Avenida 229 y Calle 210",
+    "El Tanque",
+    "Calle 216 y Calle 235",
+    "Calle 219 y Avenida243",
+    "Avenida 243 y Calle 234",
+    "Avenida 26 de Julio y Calle 247",
+    "Avenida 26 de Julio y Calle 251",
+    "Abel Santa Maria",
+    "Calle 242 y Calle 247",
+    "Unidad Militar",
+    "Campo de Antenas Guajai",
+    "Reparto Inav",
+    "Finca Milagros",
+    "Calle 260 y Linea del FFCC",
+    "90 entre 225 y 227",
+    "El Chico",
+    "Arco El Chico",
+    "Calle 290 y Calle 161",
+    "Calle 290 y Micons",
+    "El Cano",
+    "Entrada al Canon",
+    "Calle 286 y Avenida 51",
+    "Bar Maderas",
+    "Arroyo Arenas", "51 y 250",
+    "Cinco Palmas",
+    "La Vereda",
+    "Hospital Frank Pais",
+    "Lisa",
+    "Plaza de Marianao"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"450A":{
+       "parada":[
+             "Lisa",
+    "Hospital Frank Pais",
+    "Policlinico La Lisa",
+    "La Vereda",
+    "Cinco Palmas",
+    "51 y 250",
+    "Arroyo Arenas",
+    "Bar Maderas",
+    "Calle 286 y Avenida51",
+    "Entrada al Cano",
+    "Talleres",
+    "Calle 290 y Calle 161",
+    "Arco del Chico",
+    "Carretera del Chico y Casa de Oficiales",
+    "Carretera del Chico y El Caimito",
+    "Carretera del Chico y Calle 278",
+    "Carretera de Chico B. Fletes",
+    "Carretera del Chico y Carretera Prensa Latina",
+    "Carretera Prensa Latina y Caserio Guajay",
+    "Calle 290 entre 225 y 227",
+    "Calle 290 antes del 269",
+    "Finca Milagros",
+    "Reparto Inav",
+    "Calle 243 y Prensa Latina",
+    "Campo de Antenas",
+    "Unidad Militar",
+    "Calle 243 y Avenida26 de Julio",
+    "Avenida 243 entre 236 y 234",
+    "Avenida 243 y 219",
+    "Fontanar"   
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A42L":{
+       "parada":[
+             "Penas Altas",
+    "Conchita",
+    "Avenida 5 y Calle 502",
+    "Estacion de Policia", "Avenida 5 entre 490 y 490A",
+    "Avenida 5 entre 486 y 484",
+    "Avenida 5 y Calle 480",
+    "Parque de los Caballitos",
+    "Copa de Guanabo",
+    "Calle 462 y Avenida 15",
+    "Carretera Justiz y L Marvella",
+    "Carretera Justiz y Loma Justiz",
+    "Carretera Justiz y Tejar Agromar",
+    "Avenida Lopez",
+    "Carretera Justiz y El Arco",
+    "Carretera Justiz y Um Bajurayabo"   
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"473":{
+       "parada":[
+               "Hospital Nacional",
+    "Hospital William Soler",
+    "Cerro Pelado",
+    "Policlinico Los Pinos",
+    "Poey",
+    "Calzada de Bejucal y N. Lopez",
+    "Hospital Julio Trigo",
+    "Calzada de Bejucal y Cda. de la Guinera",
+    "Puente Calabazar",
+    "Parajon",
+    "Calzada de Bejucal y Soto",
+    "Casa Abogado",
+    "Las Canas",
+    "Calle 281 y 104",
+    "Fabrica de Tejido",
+    "Carretera de Globo R. Esperanza",
+    "Carretera de Globo y Ent. Globo",
+    "Carretera Las Guasimas y Carretera Rocio",
+    "Jardin Botanico",
+    "Carretera Guasimas y Escuela Lenin",
+    "Carretera Guasima y Fabrica de Pilas",
+    "Carretera Guasima y Entrada U/M",
+    "Carretera Guasimas",
+    "Calzada de Managua",
+    "Carretera Managua y Primera",
+    "Calzada de Managua Callejon Caiman",
+    "Carretera Veterinaria Guadiana",
+    "Carretera Managua",
+    "Carretera Jardin Botanico",
+    "Comunidad La Lola",
+    "Carretera Managua y Alcona",
+    "Policlinico Managua",
+    "Carretera Managua y Avenida1",
+    "Calle 24",
+    "Calle 36",
+    "Carretera Managua y Calle 40",
+    "Carretera Managua y Frank Pais",
+    "Carretera Managua y Talleres",
+    "Carretera Managua y Loma Blanca",
+    "Carretera Managua Polvorin",
+    "Carretera Managua y Barreto 1",
+    "Carretera Managua en Montesinos",
+    "Carretera Managua y Calle 20",
+    "Carretera Managua y Calle 22",
+    "Carretera Managua y Calle 26",
+    "Calle 32 Tercera",
+    "Carretera Managua y 1", "Parque Santiago",
+    "Santiago de la Vegas" 
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"476":{
+       "parada":[
+               "Carretera Rincon",
+    "Terminal Carretera Rincon",
+    "Carretera Rincon y Nuevo Santiago",
+    "Carretera Rincon Kilometro 20",
+    "Carretera Rincon y Los Cocos",
+    "Carretera Rincon y Matadero Pollos",
+    "Carretera Rincon y Carretera de Guajai",
+    "Carretera San Antonio", "Santa Rosa",
+    "Carretera San Antonio y Calle 3",
+    "Carretera San Antonio y Hospital San Lazaro",
+    "Carretera San Antonio Kilometro 23",
+    "Carretera San Antonio y Carretera La Ceiba",
+    "Calle 20 entre 51 y 53",
+    "Avenida 57 y Final" 
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"486":{
+       "parada":[
+               "Hospital Frank Pais",
+    "Policlinico La Lisa",
+    "La Vereda",
+    "Cinco Palmas",
+    "51 y 250",
+    "Arroyo Arenas",
+    "Va Maderas",
+    "Novia del Mediodia",
+    "Valle Grande",
+    "Centro de Investigacion en Nanotecnologia",
+    "Mercado Concentrado",
+    "Primera entrada de la UCI",
+    "Segunda entrada de la UCI",
+    "Carretera hacia Punta Brava",
+    "Carreteras de Punta Brava y Curva",
+    "Carretera Punta Brava y Calle a la UCI",
+    "330 Guatado",
+    "Punta Bravo" 
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"487":{
+       "parada":[
+          "Hospital Lisa",
+    "Calle 202 y Avenida81",
+    "Reparto Novoa",
+    "Calle 81",
+    "Calle 218",
+    "Bello 26",
+    "Fabrica de Oxigeno",
+    "Tecnica Canina",
+    "Avenida 81 y Calle 284",
+    "Entrada al Cano",
+    "Talleres Carretera de Mordazo",
+    "Comando El Morado",
+    "Prision de Valle Grande",
+    "Investigacion en Nanotecnologia",
+    "Mercado Concentrado",
+    "Primera entrada de la UCI",
+    "Segunda entrada de la UCI",
+    "Carretera San Pedro y Monumento",
+    "Carretera San Pedro y Carretera Prision",
+    "Carretera San Pedro y Callejon",
+    "Carretera Punta Brava y Calle UCI",
+    "Carretera San Pedro y Carretera Guatado",
+    "Carreteras San Pedro", "Avenida 1",
+    "Carretera San Pedro y Unidad Militar",
+    "Carretera San Pedro y Los Cocos",
+    "Carretera San Pedro y Bodega Las Margaritas"      
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"488":{
+       "parada":[
+        "Santiago de Las Vegas", "calle 407",
+        "Boyeros", "calle 407 y 188",
+        "Carretera Managua y Avenida3",
+        "Carretera Managua y Calle 30",
+        "Carretera Managua y Calle 26",
+        "Carretera Managua y Calle 22",
+        "Carretera Managua y Calle 20",
+        "Calle 18",
+        "Carretera Managua en Montesinos",
+        "Carretera Managua y Barreto 1",
+        "Carretera Managua Polvorin",
+        "Carretera Managua y Loma Blanca",
+        "Carretera Managua y Frank Pais",
+        "Carretera Managua", "Calle 40",
+        "Calle 36",
+        "Calle 24",
+        "Calle 4",
+        "Calzada Managua y Carretera Santiago",
+        "Calzada Managua y Recreo",
+        "Carretera Managua y Jardin Botanico Guadiana",
+        "Carretera Managua y Veterinaria",
+        "Carretera Managua y Callejon del Matadero",
+        "Carretera Managua y Salida Wasimas",
+        "Carretera Managua y Escuela",
+        "Calzada Managua y Condal",
+        "Calle 9", "Puente Calvario",
+        "13 Marzo", "Mantilla",
+        "Policlinico Mantilla",
+        "Calle Mina entre Atlanta y Cda. Managua",
+        "Porvenir y La Palma",
+        "Woodbury Ciro Frias",
+        "Cervantes y Matanzas",
+        "Cervantes y Presa de Rio",
+        "Cervantes y Guacimal",
+        "Guacimal y Santa Fe",
+        "Calixto Garcia", "Yumury",
+        "Parraga",
+        "Calzada Bejucal",
+        "Hospital Julio Trigo"       
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"490":{
+       "parada":[
+           "Hospital Frank Pais",
+    "Policlinico La Lisa",
+    "La Vereda", "Alturas de La Coronela",
+    "Instituto de Farmacia de Alimentos",
+    "Supermercado 222", "San Agustin",
+    "Mensol", "Escuela de PSC San Agustin",
+    "Supermercado 250" ,"Arroyo Arenas",
+    "Bar Maderas","Entrada al Cano",
+    "Talleres Carretera de Mordazo com El Morado",
+    "Prision de Valle Grande",
+    "Centro de Investigacion en Nanotecnologia",
+    "Mercado Concentrado", "Primera Entrada de la UCI",
+    "Segunda Entrada de la UCI"
+    
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A1":{
+       "parada":[
+            "La Rosita",
+    "Calzada de Guines",
+    "Garitas Diez Mero",
+    "Avenida Jose Marti", "calle 4",
+    "Calzada de San Miguel y calle hospital",
+    "Lamegueira",
+    "Calzada de San Miguel y central",
+    "Calzada S.M.P. y San Martin",
+    "Calle 1 y calle G",
+    "Calzada San Miguel entre 4 y 5",
+    "Calzada de San Miguel entre 5 y 4",
+    "Calzada de San Miguel Cardenas",
+    "Calzada de San Miguel y ciudad mar",
+    "Casa de San Miguel y Santa Emilia",
+    "Hospital Balear",
+    "Virgen de Camino"    
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A2":{
+       "parada":[
+          "La Rosita",
+    "Calzada de Guines",
+    "Garitas Diezmero",
+    "Jose Marti y Hermanos Amejeiras",
+    "Calle 3 entre Avenida 2 y Avenida 3",
+    "Calzada SMP entre Belinda y Elena",
+    "Casa de San Miguel y Central",
+    "Calzada SMP y San Martin",
+    "Monterrey",
+    "La Cuevita",
+    "Calzada de San Miguel y Calle Primero",
+    "Avenida Primera y Calle E",
+    "Carniceria",
+    "Santa Barbara y Lindero",
+    "Calle 4 y Pasaje Los Rizos",
+    "Calle 4 y Calzada San Miguel",
+    "Calzada San Miguel y Cardenas",
+    "Ciudad Mar",
+    "Calzada SMP Beltran",
+    "Calzada de San Miguel y Santa Emilia",
+    "Hospital Balear",
+    "Virgen de Camino",
+    "Calzada Luyano y Teresa Blanco",
+    "Hospital Hija de Galicia",
+    "Santa Ana",
+    "Velazquez",
+    "Villanueva",
+    "La Lechera",
+    "Belajuan y Rastro",
+    "Yumury",
+    "Neptuno",
+    "Hospitale Almejeiras",
+    "San Lazaro y San Francisco",
+    "Universidad de La Habana",
+    "Hospital Calixto Garcia"      
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A3":{
+       "parada":[
+               "Calzada SMP y San Martin",
+    "Monterrey",
+    "La Cuevita",
+    "Calzada San Miguel entre Cinco y Cuatro",
+    "San Miguel y Cardenas",
+    "Ciudad Mar",
+    "Santa Emilia",
+    "Hospital Balear",
+    "Virgen de Camino",
+    "Via Blanca y Motores Taino",
+    "Hacendado",
+    "Villanueva",
+    "Vega y Flores",
+    "Paz y Gomez",
+    "Palatino",
+    "Ciudad Deportiva",
+    "Hospital Clinico Quirurgico",
+    "La Papelera",
+    "La Ceiba",
+    "ITM",
+    "La Copita",
+    "100 y 51",
+    "51 y 114",
+    "Plaza de Marianao",
+    "Avenida 35",
+    "Calle 122",
+    "Hospital Militar" 
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A4":{
+       "parada":[
+           "Calle 16 y Pocito",
+    "Circulo Infantil",
+    "Cupet Dolores",
+    "Cuatro Ruedas",
+    "Carretera del Cuervo",
+    "Carretera Betancourt",
+    "Las Lajas",
+    "Carretera de Cuervo y Maximo Gomez",
+    "Pedro Nuevo y Calle Lindero",
+    "Calle 5",
+    "Calzada Managua",
+    "Fernando y Longa",
+    "Fernando y Morris",
+    "Soul y Silvia",
+    "Silvia y Carlos",
+    "Carito Garcia",
+    "Yumuri",
+    "Parraga",
+    "Hospital Julio Trigo",
+    "Calzada de Bejucal",
+    "Calzada de la Guinera",
+    "Puente Calabazar",
+    "Calzada de Bejucal y Arday",
+    "Parajon",
+    "Calzada de Bejucal y Soto",
+    "Casa Abogado",
+    "Calzada de Bejucal y Bernal",
+    "Las Canas",
+    "Parque Calabazar"     
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A5":{
+       "parada":[
+        "Terminal Cotorro",
+        "Bello Palmar",
+        "Avenida 99",
+        "42 y 44",
+        "Calle 52",
+        "Avenida 97",
+        "Avenida 71 y calle 50",
+        "Avenida 71 y calle 38",
+        "Calle 38 y La Margarita",
+        "Calle 29 y calle 24",
+        "Ocho Vias y Primer Anillo",
+        "Carretera Santa Maria y Anillo",
+        "Carretera Santa Maria y Puente Cambute",
+        "Comunidad Gambute",
+        "Puente Cambute",
+        "Carretera Santa Maria y Callejon La Yuca",
+        "Carretera Pitirre y La Bloquera",
+        "Carretera Pitirre y Minint",
+        "Oficiales Electricidad",
+        "Camino Diezmero",
+        "Monterrey",
+        "San Miguel 4 y 5",
+        "San Miguel y Cardenas",
+        "San Miguel y Ciudamar",
+        "Santa Emilia",
+        "Balear",
+        "Virgen de Camino",
+        "Calzada Luyano y Teresa Blanco",
+        "Hospital Hija de Galicia",
+        "Santa Ana",
+        "Villanueva",
+        "Jesus Peregrino",
+        "Y Yola",
+        "Cemento del Morro",
+        "Elevados",
+        "Desamparados y San Maritimo",
+        "La Coubre",
+        "Terminal Trenes",
+        "Ejido y Luz",
+        "Parque Fraternidad"    
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A6":{
+       "parada":[
+           "Terminal Cotorro",
+    "Calle 20 y Avenida 69",
+    "Calle 20 y Avenida 65",
+    "Calle 20", "Avenida 91",
+    "Avenida 59 y 61",
+    "Calle 20 y Avenida 31",
+    "Parque Santa Maria",
+    "Avenida 31 y calle 30",
+    "Avenida 31",
+    "Calle 34",
+    "Comunidad Abreu Fontan",
+    "Carretera Santa Maria y Los Mangos",
+    "Carretera Santa Maria Alecrin",
+    "Carretera Santa Maria y Monumental"     
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A7":{
+       "parada":[
+       "Terminal Cotorro",
+    "Calle 20 y Ave 69",
+    "Calle 20",
+    "Avenida 61",
+    "Avenida 59 y 61",
+    "Calle 20 y Avenida 35",
+    "Calle 22 y Ave 31",
+    "Ocho Vias y 1er Anillo",
+    "Carretera Santa Maria y Callejon La Victoria",
+    "Carretera Santa Maria", "Callejon La Yuca",
+    "Santa Maria y Calle Primera",
+    "Central Santa Maria",
+    "Escuela Primaria Llerena",
+    "Santa Maria", "10 y 12",
+    "Santa Maria y Clemente Pallares",
+    "Corralesfalso",
+    "Palacio de los Matrimonios",
+    "Quintin Bandera",
+    "Pepe Antonio",
+    "Cardenas",
+    "Avenida Cojimar y Coralito",
+    "Calle 13",
+    "Quinta y Avenida 3",
+    "Reparto Chibas",
+    "Calle 10 y Via Blanca",
+    "Calle 21 y 92",
+    "Calle 21",
+    "6 y 90",
+    "Calle 19",
+    "Avenida Oeste",
+    "Calle 82",
+    "Via Tunel",
+    "Paseo Panamericano",
+    "Rotonda y 32",
+    "Calle 28"         
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A9":{
+       "parada":[
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A10":{
+       "parada":[
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A11":{
+       "parada":[
+            "calle 17 y calle a ", "Calle G lawton ", "Iglesia Santa Clara", "porvenir ", "el correo " , "estacion de luyano",
+            "Virgen de Camino", "juanelo ", "california ", "cine san miguel ", "Calzada san miguel ", "Avenida 1 y autopista ", "reparto manana ",
+            "calzada de guanabacoa ", "calle 2", "cementerio nuevo ", "machaco ", "Corralfalso y quintin bandera ", "Pepe Antonio y cardenas ",
+            "santo domingo y estrada palama ","Avenidacojimar ", "Avenidacoralito ", "el roble "
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A12":{
+       "parada":[
+        "calle 16 y pocitos ", "lawton ", "acosta ", "Acosta y Anastasio", "plaza roja ", "Vibora", "Cafe colon", "Policake", "la palma ",
+        "La palma", "Calzada san agustin ", "Silvia y Carlos", "Calixto Garcia y yumury ", "parraga ", "Hospital Julio Trigo","calzada bejucal " 
+    , "Puente Calabazar", "terminal fortuna "
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A13":{
+       "parada":[
+        "Fortuna", "aldabo ", "aldabo y h. gali garcia ", "Hospital Nacional", "Hospital William soler", "alday florida ", "cuba y paralejo ", "finlay y san antonio ", "naranjito ", 
+        "Mercado del Monaco", "Monaco", "vibora ", "10 de octubre y milagros ", "cocos ", "toyo ", "la lechera", "cuatro camino ","monte", "parque fraternidad "
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A15":{
+       "parada":[
+        "Santiago de Las Vegas", "parque santiago ", "el paso ", "mulgoba ", "Primero de Mayo", "Escuela Jose Marti", "Aeropuerto", "Sierra Maestra", "Calzada Bejucal y Carretera Mazorra", "Medina",  "Nazareno",
+        "Berenguer", "Parque Calabazar", "las canas ", "casa de abogado "  ,"parrajo " ,"puente de calabazar ", "Fortuna", "aldabo ", "Hospital William soler", "Hospital Nacional", "Los bloques", "Boyeros y calle sur", "Capdevila", "Entronque cujae", 
+        "Reparto Maria del Carmen", "Fontanal", "Mini Max", "Avenida 229 ", "calle 228 ", "calle 227 ", "calle 221 ", "calle 223 ", "Avenida 26 de julio ", 
+        "Abel Santa Maria", "calle 242 ", "Unidad Militar", "Campo de Antena", "Avenida 276 ", "carretera murgas "              
+    ]
+,         "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A16":{
+       "parada":[
+                "palatino", "salvador y chaple ", "Calzada buenos aieres y paz ", "Suchel", "Esquina de Tejas", "cuatro camino ", "monte", 
+                "monserrate y obrapia", "Avenidamisiones y chacon ", "Cuba y Pena pobre", "Catedral Griega", "Alameda de Paula", "Desamparados y Habana", "Terminal La Coubre", 
+                "arenal "
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A17":{
+       "parada":[
+        "terminal diesmero ", "monte rey ", "calle 1 ", "La Cuevita", "Calzada san miguel ", "calle 4 ", "reparto manana ", "calzada de guanabacoa ", "via blanca ", "Calzada regla ", "cementerio regla ", "marti ", "policlnico d regla ",
+        "semaforo de guanabacoa ", "fabrica  de galleta ","Refineria nico lopez", "Reparto Chibas", "calle 21 ", "calle 19 ", "Avenidacasablanca ", "central termoelectrica ",
+         "instituto de meteorologia ", "morrro cabana " ,"escuela ujc ", "Hospital naval", "Avenidacienfuego "
+, ""                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A18":{
+       "parada":[
+        "calle 16 y pocitos ", "dolores y 19 ", "Circulo infantil", "calle 23", "dos rios y jiral ", "calle a", "calle holguin ",
+        "Calzada san agustin ", "cervantes y baracoa ", "quinta canaria ", "Calzada bejucal ", "Hospital Julio Trigo", "puente de calabazar ", "calle 100 ", "Avenidaflores ", "Calzada managua ", 
+        "policlinico managua ", "Avenidaindependencia ", "el volcan "
+         ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A19":{
+       "parada":[
+        "Terminal Cotorro", "Bello Palmar", "Avenida 101 ", "calle 52 ", "calle 100 ", "ojo de agua ", "Reparto Electrico", "Calzada cienfuegos ",
+        "secundaria ", "AvenidaAlmendras y Ave Flores", "Avenidasan francisco ", "puente de calabazar ", "Reparto Capri", "Avenidaguinera ", 
+        "triangulo ", "parraga ","san agustin ","Hospital Julio Trigo"
+        
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A52":{
+       "parada":[
+        "terminal cotooro ", "calle 20 ", "Carretera Santa Maria y Callejon La Victoria","Carretera Pitirre y Minint",
+        "Calzada san miguel ", "Garita del diezmero", "la cumbre ", "las lajas ", "carretera pedro nuevo ", "mantilla "
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A21":{
+       "parada":[
+        "terminal cotorro ", "Bello Palmar","Avenida 101 ", "la gomera ", "reparto moralitos", "Monumental", "entronque y alecrin ", "Puente de Santa Fe", "via blanca y rotonda cogimar ", "Via tunel", "hospital naval ",
+        "la cabana ", "Cuba y Pena pobre"
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A24":{
+       "parada":[
+        "cementerio de los judios ", "Corralesfalso", "calle 20 ", "calle a", "Avenidacojimar ", "Reparto Chibas","via blanca y calle 21",
+        "calle 23", "Via tunel","Los Tres Picos", "Avenidacienfuego ", "morrro cabana ", "instituto de meteorologia "
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A26":{
+       "parada":[
+
+        "calle 82 ", "Avenidacasablanca ", "central termoelectrica ", "Avenidacienfuego ", "calle 1 ", "carretera morro  ", "calle 22 ", "calle 26 ",
+        "los pinos ", "rotonda de alamar","Hanoi", "162 ","Intermitente de alamar", "parque amistad ", "Micro X", "academia naval " 
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A28":{
+       "parada":[
+        "barreto ", "Palacio de los Matrimonios", "Corralesfalso", "Puente de Santa Fe", "via blanca y intermitente de alamar ", "Avenida 3 ", 
+        "parque amistad ","policlinico neninger ", "academia naval "
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A29":{
+       "parada":[
+        "cementerio de los judios ", "calle g ", "Corralesfalso", "calle 2 ", "calle 14 ", "carretera santa maria ", "D beche", 
+        "machaco ", "policlnico d regla ", "parque guicanamar ", "marti y parque de las madres ", "emboque de regla "
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A30":{
+       "parada":[
+        "cementerio de los judios ","Corralesfalso", "Palacio de los Matrimonios","machaco ", "calzada de guanabacoa ","calle 2 ", "reparto manana ","Avenida 1 ",
+        "Virgen del camino", "Primero de Mayo", "luyano ", "Hospital miguel enriquez", "terminal Villanueva ", "la lechera", "cuatro camino ",
+        "monte ", "estacion de bomberos ", "Terminal de trenes"
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A31":{
+       "parada":[
+        "Corralesfalso", "calle 20", "calle a ", "estrada palma", "machaco ", "pallares "
+                , "carretera santa maria ", "Monumental", "carretera penalver" 
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A32":{
+       "parada":[
+    "palatino", "Heladeria Word", "via blanca ", "Virgen de Camino", "Rotonda shell","cementerio de regla ", "policlnico d regla ","semaforo de guanabacoa ", "fabrica  de galleta ", "Refineria nico lopez",
+    "reparto Chibas ", "Rotonda cojimar","calle 32 ", "los 3 picos ", "Avenidacienfuego "
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A40":{
+       "parada":[
+        "pena altas ","Conchita", "Estacion Policia","Avenida 5", "cupet guanabo ", "Los Marinos","playa bacuranao ", "via blanca ", "Intermitente de alamar",
+        "Villa Panamericana", "hospital naval ","la cabana ", "Hotel Sevilla","estacion de bomberos ","terminal de trenes "              
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+        
+        ] 
+},
+"A42":{
+       "parada":[
+        "pena altas ", "Conchita ","Avenida 5 ", "Estacion Policia","cupet guanabo ", "maceo y el puente",
+        "la piedra ","granja del minint ","santo cristo ","poblado pedro pi "
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A45":{
+       "parada":[
+        "pena altas ","Conchita ","Estacion Policia","Avenida 5 ","cadeca ","cupet guanabo ","calle 462 ","via blanca ",
+        "Los Marinos","hotel atlantico ","real y obispo ","Palacio de los Matrimonios","Corralesfalso","Corralfalso y quintin bandera ",
+        "san francisco y maximo gomes  "
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A48":{
+       "parada":["via blanca ",
+        "via tunel ", "Avenidacircular ", "reparto Chibas ","Avenida Cojimar y Coralito","estrada palma","Corralesfalso",
+        "puente de santa fe ","Monumental","carretera penalver","los mangos ","penalver y obelisco "
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A49":{
+       "parada":[
+        "calle 82","calle 23 ","Avenidacircular ","reparto Chibas ","fabrica  de galleta ","semaforo de guanabacoa ","policlnico d regla ",
+        "marti y parque de las madres ","emboque de regla ","10 de octubre y maseo ","Rotonda shell","Virgen de Camino",
+        "via blanca ","Elevados","Desamparados y San Maritimo","La Coubre","Lanchita de Regla","Avenidadel puerto ","Cuba y Pena pobre"
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A50":{
+       "parada":[
+        "cementerio de los judios ","Corralesfalso","Santa Maria","Corralesfalso y obispo","Fabrica de aluminio","Rotonda shell",
+        "puente martin perez ","via blanca ","Virgen del Camino","Calzada de luyano ","Hospital Hija de Galicia","10 de octubre y serafines",
+        "la lechera","cuatro camino ","manglar y linderos ","parque la normal","policlinico giron ","boyeros "
+    
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A58":{
+       "parada":[
+        "calle 82 y via tunel ","calle 32 ","real y 29 ","los pinos ","calle 22","terminal cogimar ","Avenidacienfuego ",
+        "hospital naval ","la cabana ","Cuba y Pena pobre","san lazaro ","Hospital Ameijeiras","universidad de la habana ",
+        "Hospital Calixto Garcia","omnibus nacionales ", " boyeros y bruzon "
+        ,""
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A60":{
+       "parada":[
+        "calle 82","via tunel ","Villa panamericana","hospital naval ","la cabana ","Cuba y Pena pobre","hotel sevilla ","Parque de la Fraternidad",
+        "cuatro caminos ","la lechera ","terminal Villanueva ","via blanca y micons ","Virgen de Camino","barrio obrero ",
+        "puente martin perez ","Rotonda shell","arcoiris ","los edificios ","10 de octubre y simpatia ","marti y parque de las madres ","emboque de regla "
+            
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A62":{
+       "parada":[
+        "pena altas ","Conchita ","Estacion Policia","Avenida 5","cadeca ","cupet guanabo ","la barca", "Los marinos","villa tarara",
+        "pepito tey ","playa bacuranao ","Intermitente de alamar","Rotonda cojimar","reparto Chibas ","Refineria nico lopez","semaforo de guanabacoa ",
+        "Fabrica de aluminio","Rotonda shell","puente martin perez ","via blanca", "Virgen de Camino"
+                
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A64":{
+       "parada":[
+               "Penas Altas" , "Bellomonte", "Calle 462", "Discoteca de Guanabo", "Cine Guanabo",
+               "La conchita", "La cantera", "Cementerio", "Vaqueria", "Coppelita", "Bajurayabo", "Corralesfalso y Penalver", "Corralesfalso y Reiglita", 
+               "Palacio de los Matrimonios", "Corralfalso y quintin bandera", "Anfiteatro"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A65":{
+       "parada":[
+            "Avenidacasablanca ", "Calle 6", "Calle 21", "Rotonda cojimar", "Via tunel", "Paseo Panamericano", "Carretera Morro y terminal cojimar", "Calle 1", "Avenidacienfuego ", 
+            "Hospital Naval", "La Cabana", "Cuba y Pena pobre", "Hotel Sevilla", "Zulueta y Dragones", "Parque el Curita",
+            "Yumuri", "Hospital Emergencias", "Ayestaran", "Primelle y Velarde", "Ciudad Deportiva", "Avenidaindependencia "     
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A66":{
+       "parada":[
+             "Calle 82", "Carretera Casablanca", "central termoelectrica ", "estrada palma", "instituto de meteorologia ", "escuela ujc ", "Hospital Naval", "La Cabana", "Muelle de caballeria", "Catedral Griega", "Alameda de Paula", "Terminal La Coubre", "Desamparados y Habana", "arenal ", "marti y 10 de octubre", "marti y parque de las madres ", "emboque de regla "   
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A83":{
+       "parada":[
+           "Avenidacasablanca ", "Calle 82", "Los 3 Picos", "Hospital Naval", "La Cabana", "Hotel Sevilla", "Parque de la Fraternidad", "Monte", "Esquina de Tejas", "Calzada Cerro", "Hospital Covadonga", "Paulita Concepcion", "Mayia Rodriguez y Milagros", 
+           "Palacio de los Matrimonios", "Mercado del Monaco", "naranjito ", "Finlay y 3", 
+           "Finlay y Asuncion", "Arday y Escambray", "Nacional y Lililoy", "Nacional y Aldabo", "100 y aldabo",
+           "Hospital William soler", "Hospital Nacional", "Aldabo y Hospital Gali Garcia", "Fortuna"     
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A95":{
+       "parada":[
+             "cementerio de los judios ", "Corralesfalso y Penalver", "Corralesfalso y Reiglita", "Corralesfalso", "AvenidaCojimar", "Reparto Chibas", "AvenidaGuanabacoa", "Calle 10",
+             "Calle 21", "Calle 82", "Los 3 Picos", "Hospital Naval", "La Cabana", "Cuba y Pena pobre", "san lazaro ","Hospital Ameijeiras",
+            "Universidad de La Habana", "Hospital Calixto Garcia", "hospitales del vedado "   
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"C1":{
+       "parada":[
+               "Terminal Cotorro", "Bello Palmar", "Calle 38", "Calle 100 y Unidad Militar", "La Guarapera", "Calle 102", "Avenida 101 y Cuatro Camino"  
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"C2":{
+       "parada":[
+              "Terminal Cotorro", "Calle 20", "Politecnico", "Calle 20 y Antillana de Acero",
+              "Autopista Melena", "Calderon", "Politecnico Managua", "Guadiana", "Carretera Managua y 1"  
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"C3":{
+       "parada":[
+                "pena altas ", "Calle 462", "Discoteca de Guanabo", "Reparto Militares", "Agromercado", "Cine Guanabo", "Avenida 5 y Calle 500", "La conchita", "La cantera", 
+                "Cementerio", "Vaqueria", "Cuba", "Coppelita", "Funeria", "Canta Rana", "Los Cocos", "El Ateje", "La Chumba", "San Juan", "La Zarza", "Los Jimenez", "La Torre", "Santa Barbara" 
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"C5":{
+       "parada":[
+                "pena altas ", "La cantera", "La conchita", "Cementerio", "Mamoncillo", "Vaqueria", "Cuba", "Carretera Jaruco", "Curva Manjua", "Avenida 31", "Plaza Jaruco"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"C6":{
+       "parada":[
+             "Corralfalso", "Carretera Campo Florido", "Maceo y el Puente", "Carretera a Pedro Pi-arango", "Recria Anacaona", "La Piedra", "Camino Crucero"   
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"C7":{
+       "parada":[
+                "Avenidacasablanca ", "central termoelectrica ", "Villa Panamericana", "Puente de alamar", "Bases de Taxis", "Anfiteatro Alamar", "Parqeu de diversiones", "Hanoi", "Rotonda de Alamar", "Policlinico neninger", "Celimar", "Pepito Tey", "villa tarara", "AvenidaBanderas", "Los Marinos", "Avenida Americas", "Calle 462", "Avenida 5", "Calle 24 y 28", "Brisas Mar", "Arco", "Via Blanca", "Punto Cero"
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A47":{
+       "parada":[
+           "Terminal Cotorro", "Bello Palmar", "Alberro Nuevo", "la gomera ", "Avenida 101", "Monumental y La coubre", "entronque y alecrin ", "Monumental y Carretera alberro", "Monumental y Complejo Lacteo", "Monumental y Contingente", "Berroa", "Via Blanca y Rotonda Cojimar"," Via Tunel" , 
+           "Villa Panamericana", "Hospital Naval", "La Cabana", "Cuba y Pena pobre", "Hospital Ameijeiras", "San Lazaro"     
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+},
+"A97":{
+       "parada":[
+          "Playa", "Nautico", "La Muneca", "Escuela Martires de Giron", "pabexpo", "Pedregal", "Hospital Frank Pais", "Plaza de Marianao", "Lisa", "51 y 138", "Anfiteatro de Marianao", "Hospital Militar", "Obelisco", "Pediatrico Marianao", "Ceguera", "La Ceiba", "Cine Avenida", "Tropicana",
+          "La Bodega", "Escuela Primaria", "Carretera Husillo"     
+    ],
+        "ida":[
+                       
+        ],
+        "regreso":[
+           
+        ] 
+}
+}
