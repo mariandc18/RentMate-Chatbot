@@ -1,14 +1,15 @@
 {
     "P1": {
         "parada": [
-            "Terminal la Rosita",
+            "La Rosita ",
             "Garita del diezmero",
             "La cumbre",
             "Dolores",
             "Carolina",
             "Loma de los zapotes",
             "Virgen del camino",
-            "Estacion de ferrocarril Luyano",
+            "Estacion de ferrocarril",
+            "Luyano",
             "Concha y Luyano",
             "Paso superior",
             "Hospital miguel enriquez",
@@ -53,14 +54,14 @@
             "Calle 10",
             "Avenida 3",
             "Calle 112",
-            "Avenida 5",
+            "5ta avenida",
             "Calle 120",
             "Calle 5"
         ],
         "regreso": [
             "Calle 5",
             "Calle 118",
-            "Avenida 5",
+            "5ta avenida",
             "Calle 112",
             "Avenida 3",
             "Calle 10",
@@ -83,8 +84,8 @@
         ],
         "coordenadas": [
             [
-                null,
-                null
+                23.0727858,
+                -82.3088477
             ],
             [
                 23.0757019,
@@ -111,8 +112,12 @@
                 -82.3410414
             ],
             [
-                null,
-                null
+                23.12992505,
+                -82.35453203034777
+            ],
+            [
+                23.106498950000002,
+                -82.35374299120262
             ],
             [
                 23.1070252,
@@ -223,7 +228,7 @@
             "San Pedro",
             "Siboney",
             "San francisco",
-            "Terminal la rosita",
+            "La Rosita ",
             "Garita del diezmero",
             "La cumbre",
             "Dolores",
@@ -249,7 +254,7 @@
             "Avenida 99",
             "calle 62",
             "Avenida 101",
-            "Calzada G\u00c3\u00bcines",
+            "Calzada Guines",
             "dolores",
             "lacret",
             "via blanca",
@@ -259,16 +264,15 @@
         ],
         "regreso": [
             "Calle g",
-            "Avenidac. M. Cespedes",
+            "Avenida c. M. Cespedes",
             "boyeros",
-            "v. Blanca",
+            "via Blanca",
             "lacret",
             "dolores",
             "Calzada Guines",
             "Avenida 101",
             "Calle 62",
-            "Avenida 99",
-            "hasta el deposito"
+            "Avenida 99"
         ],
         "coordenadas": [
             [
@@ -324,8 +328,8 @@
                 -82.24697210358961
             ],
             [
-                null,
-                null
+                23.0727858,
+                -82.3088477
             ],
             [
                 23.0757019,
@@ -450,7 +454,7 @@
             "Avenida 3",
             "Calle 160",
             "Avenida 7",
-            "AvenidaCojimar",
+            "Avenida Cojimar",
             "via blanca",
             "Calzada Guanabacoa",
             "Calzada Luyano",
@@ -651,7 +655,7 @@
             "Avenida 23",
             "Calle 190",
             "Avenida 17",
-            "Avenida 5",
+            "5ta avenida",
             "Calle 120",
             "Avenida 9",
             "Calle 84",
@@ -685,7 +689,7 @@
             "calle 84",
             "Avenida 9",
             "Calle 120",
-            "Avenida 5",
+            "5ta avenida",
             "Avenida 17",
             "Calle 190",
             "Avenida 23",
@@ -1231,7 +1235,7 @@
             "Avenida 99",
             "calle 62",
             "Avenida 101",
-            "Calzada G\u00c3\u00bcines",
+            "Calzada Guines",
             "Calzada Luyano",
             "Calzada 10 de octubre",
             "cristina",
@@ -1246,7 +1250,7 @@
             "cristina",
             "Calzada 10 de octubre",
             "Calzada luyano",
-            "Calzada G\u00c3\u00bcines",
+            "Calzada Guines",
             "Avenida 101",
             "calle 62",
             "Avenida 99"
@@ -1422,8 +1426,8 @@
                 -82.3502862
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1605356,
@@ -1810,9 +1814,9 @@
         ],
         "ida": [
             "Calle 168",
-            "Avenida 5",
+            "5ta avenida",
             "Calle 192",
-            "Avenida 5",
+            "5ta avenida",
             "Calle 168",
             "Avenida 3",
             "Calle 162",
@@ -1841,7 +1845,7 @@
             "Calle 162",
             "Avenida 3",
             "Calle 186",
-            "Avenida 5",
+            "5ta avenida",
             "Calle 192",
             "punto control"
         ],
@@ -1899,8 +1903,8 @@
                 -82.3065557
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1494879,
@@ -2138,12 +2142,12 @@
             "Calle 110",
             "Avenida 3",
             "Calle 112",
-            "Avenida 5",
+            "5ta avenida",
             "Calle 152"
         ],
         "regreso": [
             "Calle 152",
-            "Avenida 5",
+            "5ta avenida",
             "Calle 112",
             "Avenida 3",
             "Calle 110",
@@ -2300,7 +2304,6 @@
             "Avenida 23",
             "Avenida 310",
             "Autopista Novia del Mediodia",
-            "Avenida 51",
             "Avenida 51",
             "Ptes. Grandes",
             "Calzada Cerro",
@@ -2489,8 +2492,8 @@
                 -82.32785947015576
             ],
             [
-                23.121023342028288,
-                -82.33247270715454
+                23.118719435791196,
+                -82.33402834288503
             ],
             [
                 23.12691,
@@ -2750,8 +2753,8 @@
         ],
         "coordenadas": [
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1605356,
@@ -2935,12 +2938,12 @@
             "Calzada Bejucal y Guinera",
             "Calzada Bejucal y 1",
             "Calzada Bejucal y Hospital Julio Trigo",
-            "Cuba y Cda. Bejucal",
+            "Cuba y Calzada  Bejucal",
             "Arday y Cuba",
             "Finlay y San Antonio",
             "Finlay y Perla",
             "Avenida 6",
-            "Calle D y Avenida1",
+            "Calle D y Avenida 1",
             "Rivera y Agramonte",
             "Santa Amalia y Alvaro"
         ],
@@ -3239,7 +3242,7 @@
             "Avenida 1",
             "Calle 296",
             "Avenida 7",
-            "Avenida 5",
+            "5ta avenida",
             "Calle 190",
             "Avenida 23",
             "Calle 188",
@@ -3497,7 +3500,7 @@
             "Primelle y Canongo",
             "Calzada Cerro y Tulipan",
             "Hospital Covadonga",
-            "sasravia y Cda. Cerro",
+            "sasravia y Calzada  Cerro",
             "Cruz del Padree y estevez",
             "Infanta y Amenidad",
             "Pediatrico C.Habana",
@@ -3517,7 +3520,7 @@
         ],
         "ida": [
             "Calle 82",
-            "Av.Via tunel",
+            "Avenida Via tunel",
             "monumental",
             "carcel",
             "AvenidaDel puerto",
@@ -3641,8 +3644,8 @@
                 -82.3502862
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 null,
@@ -3667,7 +3670,8 @@
             "linea y g",
             "embajada de hungria",
             "hospitales del vedado ",
-            "hospitales calixto garcia ,'hospitales almejeires ",
+            "hospital calixto garcia",
+            "hospitales almejeiras ",
             "belascoain",
             "San miguel y san rafael ",
             "yumuri",
@@ -3754,6 +3758,10 @@
                 -82.3873076
             ],
             [
+                23.1349139,
+                -82.3835551
+            ],
+            [
                 null,
                 null
             ],
@@ -3817,43 +3825,42 @@
     },
     "23": {
         "parada": [
-            "calle 16 ",
-            "calle b ",
-            "calle 11 ",
-            "Calle G lawton ",
-            "porvenir ",
-            "luyano ",
-            "Calzada. luyano ",
-            "teresa blanco ",
-            "Hospital h galicia ",
+            "calle 16",
+            "calle b",
+            "calle 11",
+            "Calle G",
+            "lawton",
+            "porvenir",
+            "Calzada luyano",
+            "teresa blanco",
+            "Hospital Hijas de Galicia",
             "Villanueva ",
-            "sta. ana ",
+            "santa ana",
             "Villanueva ",
-            "velasquez ",
-            "jesus peregrino  ",
+            "velasquez",
+            "jesus peregrino",
             "yola ",
-            "castillos atares ",
+            "castillos atares",
             "arroyo ",
-            "chamorro ",
+            "chamorro",
             "los sitios ",
-            "yumuri ",
+            "yumuri",
             "parque fraternidad ",
-            "industria ",
+            "industria",
             "san martin ",
-            "san lazaro ",
+            "san lazaro",
             "crespo y aguila ",
-            "san lazaro ",
-            "escobar ",
+            "escobar",
             "Hospital Ameijeiras",
             "san francisco ",
             "universidad de la habana ",
-            "hospitales calixto garcia ",
+            "hospital calixto garcia ",
             "hospitales del vedado "
         ],
         "ida": [
             "calle 16 ",
             "calle b ",
-            "calle 11 ",
+            "calle 11",
             "aguilera ",
             "porvenir ",
             "Calzada de luyano ",
@@ -3888,7 +3895,7 @@
             "Calzada.luyano ",
             "porvenir ",
             "aguilera ",
-            "calle 11 ",
+            "calle 11",
             "calle d ",
             "calle 14 ",
             "calle b "
@@ -3907,16 +3914,16 @@
                 -82.40767993276008
             ],
             [
-                null,
-                null
+                23.04804033246709,
+                -82.35731750634834
+            ],
+            [
+                23.09525745,
+                -82.349983681274
             ],
             [
                 23.0576272,
                 -82.3635733
-            ],
-            [
-                23.106498950000002,
-                -82.35374299120262
             ],
             [
                 23.105825515694526,
@@ -3927,16 +3934,16 @@
                 -82.3524190054031
             ],
             [
-                null,
-                null
+                23.105201,
+                -82.3579087
             ],
             [
                 23.161195577839386,
                 -82.29429171649241
             ],
             [
-                23.04154245840331,
-                -82.369039202204
+                23.0268695,
+                -82.2535359
             ],
             [
                 23.161195577839386,
@@ -3995,10 +4002,6 @@
                 null
             ],
             [
-                23.09333331270709,
-                -82.3614666076276
-            ],
-            [
                 23.1402665,
                 -82.3680568
             ],
@@ -4015,8 +4018,8 @@
                 -82.3819420021318
             ],
             [
-                23.134382549999998,
-                -82.38477734472846
+                23.1349139,
+                -82.3835551
             ],
             [
                 23.1358619,
@@ -4066,7 +4069,7 @@
             "porvenir ",
             "Calzada Managua",
             "Progreso",
-            "Avenida 5",
+            "5ta avenida",
             "Lucero",
             "Calzada Guines",
             "Caraballo",
@@ -4697,7 +4700,7 @@
             "Avenida 31"
         ],
         "regreso": [
-            "Avenida 5",
+            "5ta avenida",
             "Calle 2",
             "Avenida 7",
             "Calle 6",
@@ -4844,7 +4847,7 @@
             "Teatro Karls marx",
             "Maqueta de La Habana",
             "La copa",
-            "Calle 60 y Avenida5",
+            "Calle 60 y 5ta Avenida",
             "Avenida 13",
             "Avenida 21",
             "Avenida 29 y Calle 62",
@@ -5017,7 +5020,7 @@
             "santa fe",
             "Avenida 7 y 296 ",
             "policlinico ",
-            "Avenida 5 y 282 ",
+            "5ta avenida y 282 ",
             "J.M.Martinez",
             "la estrella ",
             "calle 190 y ave .17",
@@ -5036,7 +5039,7 @@
             "calle 212",
             "Avenida 27",
             "calle 190 ",
-            "Avenida 5 ",
+            "5ta avenida ",
             "calle 286",
             "Avenida 1",
             "calle 306"
@@ -5044,12 +5047,12 @@
         "regreso": [
             "calle 306 ",
             "Avenida 7 ",
-            "Avenida 5 ",
+            "5ta avenida ",
             "calle 190",
             "Avenida 27 ",
             "calle 212 ",
             "Avenida 39",
-            "Avenida 51 ",
+            "Avenida 51",
             "calle 160 "
         ],
         "coordenadas": [
@@ -5062,12 +5065,12 @@
                 -82.4735889973845
             ],
             [
-                23.1409001,
-                -82.3630315
+                23.1409254,
+                -82.3622345
             ],
             [
-                null,
-                null
+                23.0882001,
+                -82.48630299999999
             ],
             [
                 23.09744862952416,
@@ -5129,7 +5132,7 @@
             "calle 81 y 218 ",
             "cementerio de la lisa ",
             "calle 81 y 162",
-            "158 e/calle 53 y Avenida51 ",
+            "158 e/calle 53 y Avenida51",
             "51 y 138 ",
             "afiteatro de marianao ",
             "51 y 114",
@@ -5151,7 +5154,7 @@
             "calle 272",
             "Avenida 27",
             "calle 264",
-            "Avenida 31 ",
+            "Avenida 31",
             "calle 240 ",
             "Avenida 81",
             "calle 158",
@@ -5880,13 +5883,13 @@
             "Genetica",
             "Avenida 31 y 158",
             "Escuela Medicina Giron",
-            "Av.25 y 132",
+            "Avenida 25 y 132",
             "Repalto Zamora",
             "Hospital Militar",
             "Obelisco",
             "Pediatrico Marianao",
             "Ceguera",
-            "55",
+            "Calle 55",
             "Tropicana",
             "Cine Avenida41 y 42",
             "Reparto Coli",
@@ -5967,8 +5970,8 @@
                 -82.42192865280157
             ],
             [
-                23.1427739,
-                -82.3840080906433
+                23.05469515574968,
+                -82.27197157499761
             ],
             [
                 23.1090827,
@@ -6042,7 +6045,7 @@
             "Hospital Naval",
             "Los Tres Picos",
             "Via Tunel y Calle 82",
-            "Terminar Bahia"
+            "Terminal Bahia"
         ],
         "ida": [],
         "regreso": [],
@@ -6132,8 +6135,8 @@
                 -82.3502862
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.157579,
@@ -6144,8 +6147,8 @@
                 null
             ],
             [
-                null,
-                null
+                23.150017300000002,
+                -82.31261293536328
             ]
         ]
     },
@@ -6275,7 +6278,7 @@
             "AvenidaFlores",
             "AvenidaAlmendros",
             "Secundaria Cienfuegos entre Septima y Quinta",
-            "Cienfuegos y Avenida3",
+            "Cienfuegos y Avenida 3",
             "Reparto Electrico",
             "Puente Calvario",
             "13 de Marzo",
@@ -6292,9 +6295,9 @@
             "Finlay y Asuncion",
             "Finlay y Morales",
             "Finlay entre 8 y 10",
-            "Finlay y Avenida2",
+            "Finlay y Avenida 2",
             "Naranjito",
-            "Camag\u00c3\u00bcey",
+            "Camaguey",
             "Vento",
             "Calle 11 y Reforma",
             "Calle 11 y Calle 2",
@@ -6406,8 +6409,8 @@
                 -82.377814
             ],
             [
-                null,
-                null
+                23.08366755630894,
+                -82.38293680153441
             ],
             [
                 23.030122810725697,
@@ -6443,10 +6446,10 @@
             "Vibora",
             "Poli Cake",
             "Quesel y Calle 2",
-            "Quesel y AvenidaPorvenir",
+            "Quesel y Avenida Porvenir",
             "Quesel y Lourdes",
             "Lourdes y San Gregorio",
-            "Calle Mina y Cda. Managua",
+            "Calle Mina y Calzada Managua",
             "Calle Arnau y Calle Saco",
             "Calzada San Agustin",
             "Woodbury",
@@ -6454,7 +6457,7 @@
             "Estrella San Agustin",
             "Silvia",
             "Fernando y Morris",
-            "Fernando y Cda. Managua",
+            "Fernando y Calzada Managua",
             "Calzada Managua y Pilar",
             "13 de Marzo",
             "Puente Calvario",
@@ -7313,8 +7316,8 @@
             "Parque el Pescado",
             "Calle 11 y Calle 2",
             "Calle 11 y Reforma",
-            "Camag\u00c3\u00bcey yPastora",
-            "Camag\u00c3\u00bcey y Vento",
+            "CamagUey y Pastora",
+            "CamagUey y Vento",
             "Vento y calle 4",
             "Vento y Rodriguez Morini",
             "Vento y Embill",
@@ -7328,7 +7331,7 @@
             "Hospital Nacional",
             "Los bloques",
             "Boyeros y calle sur",
-            "Cap de Vila",
+            "capdevila",
             "Entronque Cujae",
             "Reparto Maria del Carmen",
             "Fontanar",
@@ -7368,12 +7371,12 @@
                 null
             ],
             [
-                null,
-                null
+                23.0829585,
+                -82.3854818
             ],
             [
-                null,
-                null
+                23.0839736,
+                -82.3814142
             ],
             [
                 null,
@@ -7428,8 +7431,8 @@
                 -82.4028298
             ],
             [
-                null,
-                null
+                23.0525537,
+                -82.4031903
             ],
             [
                 23.0442239,
@@ -7874,7 +7877,7 @@
             "Calle Soto y AB5",
             "Calle Soto y Trebol",
             "Calle Sodio y Calle C",
-            "Calle Soto y Cda. Bejucal",
+            "Calle Soto y Calzada  Bejucal",
             "Parajon",
             "Calzada de Bejucal y Roosevelt",
             "Puente Calabazar",
@@ -8346,7 +8349,7 @@
             "Playa",
             "Nautico",
             "Flores",
-            "Avenida 5 y Calle 184",
+            "5ta avenida y Calle 184",
             "La Estrella",
             "Los Marinos",
             "Jaimanita",
@@ -8354,7 +8357,7 @@
             "Asilo",
             "10 de octubre y serafines",
             "JM Marques",
-            "Avenida 5 y 280",
+            "5ta avenida y 280",
             "Avenida 7 y Calle 284",
             "Avenida 7 y 294",
             "Avenida 7 y 296",
@@ -8409,8 +8412,8 @@
                 null
             ],
             [
-                null,
-                null
+                23.106172902655157,
+                -82.44154738649377
             ],
             [
                 null,
@@ -8439,7 +8442,7 @@
             "Playa",
             "Nautico",
             "Flores",
-            "Avenida 5 y Calle 184",
+            "5ta avenida y Calle 184",
             "La Estrella",
             "Los Marinos",
             "Jaimanita",
@@ -8680,8 +8683,8 @@
                 -82.34758856195094
             ],
             [
-                23.1409001,
-                -82.3630315
+                23.1409254,
+                -82.3622345
             ]
         ]
     },
@@ -8690,7 +8693,7 @@
             "Calzada de San Miguel y los aliados",
             "Calzada de San Miguel y calle central",
             "Calzada de San Miguel y montesino",
-            "Calzada de San Miguel y Cda. de Guines",
+            "Calzada de San Miguel y Calzada  de Guines",
             "La Cumbre",
             "Cuatro ruedas",
             "Cupet Dolores",
@@ -9868,11 +9871,11 @@
         "parada": [
             "Penas Altas",
             "Conchita",
-            "Avenida 5 y Calle 502",
+            "5ta avenida y Calle 502",
             "Estacion de Policia",
-            "Avenida 5 entre 490 y 490A",
-            "Avenida 5 entre 486 y 484",
-            "Avenida 5 y Calle 480",
+            "5ta avenida entre 490 y 490A",
+            "5ta avenida entre 486 y 484",
+            "5ta avenida y Calle 480",
             "Parque de los Caballitos",
             "Copa de Guanabo",
             "Calle 462 y Avenida 15",
@@ -9961,7 +9964,7 @@
             "Poey",
             "Calzada de Bejucal y N. Lopez",
             "Hospital Julio Trigo",
-            "Calzada de Bejucal y Cda. de la Guinera",
+            "Calzada de Bejucal y Calzada  de la Guinera",
             "Puente Calabazar",
             "Parajon",
             "Calzada de Bejucal y Soto",
@@ -9986,20 +9989,21 @@
             "Comunidad La Lola",
             "Carretera Managua y Alcona",
             "Policlinico Managua",
-            "Carretera Managua y Avenida1",
+            "Carretera Managua y Avenida 1",
             "Calle 24",
             "Calle 36",
             "Carretera Managua y Calle 40",
             "Carretera Managua y Frank Pais",
             "Carretera Managua y Talleres",
             "Carretera Managua y Loma Blanca",
-            "Carretera Managua Polvorin",
+            "Carretera Managua",
+            "Polvorin",
             "Carretera Managua y Barreto 1",
             "Carretera Managua en Montesinos",
             "Carretera Managua y Calle 20",
             "Carretera Managua y Calle 22",
             "Carretera Managua y Calle 26",
-            "Calle 32 Tercera",
+            "Calle 32",
             "Carretera Managua y 1",
             "Parque Santiago",
             "Santiago de la Vegas"
@@ -10164,8 +10168,12 @@
                 -82.3247154
             ],
             [
-                null,
-                null
+                22.99361659818708,
+                -82.29605521819383
+            ],
+            [
+                23.0552915,
+                -82.4172863268503
             ],
             [
                 null,
@@ -10188,8 +10196,8 @@
                 null
             ],
             [
-                23.16929343662564,
-                -82.27327905286008
+                23.117413344873555,
+                -82.42434440515956
             ],
             [
                 22.99361659818708,
@@ -10535,7 +10543,7 @@
             "calle 407",
             "Boyeros",
             "calle 407 y 188",
-            "Carretera Managua y Avenida3",
+            "Carretera Managua y Avenida 3",
             "Carretera Managua y Calle 30",
             "Carretera Managua y Calle 26",
             "Carretera Managua y Calle 22",
@@ -10564,7 +10572,7 @@
             "13 Marzo",
             "Mantilla",
             "Policlinico Mantilla",
-            "Calle Mina entre Atlanta y Cda. Managua",
+            "Calle Mina entre Atlanta y Calzada  Managua",
             "Porvenir y La Palma",
             "Woodbury Ciro Frias",
             "Cervantes y Matanzas",
@@ -10983,7 +10991,7 @@
             "Hospital Balear",
             "Virgen de Camino",
             "Calzada Luyano y Teresa Blanco",
-            "Hospital Hija de Galicia",
+            "Hospital Hijas de Galicia",
             "Santa Ana",
             "Velazquez",
             "Villanueva",
@@ -11092,8 +11100,8 @@
                 null
             ],
             [
-                null,
-                null
+                23.105201,
+                -82.3579087
             ],
             [
                 23.0268695,
@@ -11301,7 +11309,7 @@
             "Fernando y Morris",
             "Soul y Silvia",
             "Silvia y Carlos",
-            "Carito Garcia",
+            "Calixto Garcia",
             "Yumuri",
             "Parraga",
             "Hospital Julio Trigo",
@@ -11380,8 +11388,8 @@
                 null
             ],
             [
-                null,
-                null
+                23.1337079,
+                -82.3834846
             ],
             [
                 23.13099715,
@@ -11467,7 +11475,7 @@
             "Balear",
             "Virgen de Camino",
             "Calzada Luyano y Teresa Blanco",
-            "Hospital Hija de Galicia",
+            "Hospital Hijas de Galicia",
             "Santa Ana",
             "Villanueva",
             "Jesus Peregrino",
@@ -11596,8 +11604,8 @@
                 null
             ],
             [
-                null,
-                null
+                23.105201,
+                -82.3579087
             ],
             [
                 23.0268695,
@@ -11955,7 +11963,7 @@
             "Corralfalso y quintin bandera ",
             "Pepe Antonio y cardenas ",
             "santo domingo y estrada palama ",
-            "Avenidacojimar ",
+            "Avenida Cojimar ",
             "Avenidacoralito ",
             "el roble "
         ],
@@ -12043,8 +12051,8 @@
                 null
             ],
             [
-                null,
-                null
+                23.147812238110692,
+                -82.29955276200188
             ],
             [
                 null,
@@ -12066,7 +12074,6 @@
             "Vibora",
             "Cafe colon",
             "Policake",
-            "la palma ",
             "La palma",
             "Calzada san agustin ",
             "Silvia y Carlos",
@@ -12117,10 +12124,6 @@
                 -82.3583726
             ],
             [
-                23.073854,
-                -82.3583726
-            ],
-            [
                 23.066467515931,
                 -82.35343664794213
             ],
@@ -12158,7 +12161,7 @@
         "parada": [
             "Fortuna",
             "aldabo ",
-            "aldabo y h. gali garcia ",
+            "Aldabo y Hospital Gali Garcia",
             "Hospital Nacional",
             "Hospital William soler",
             "alday florida ",
@@ -12290,7 +12293,7 @@
             "Avenida 229 ",
             "calle 228 ",
             "calle 227 ",
-            "calle 221 ",
+            "calle 221",
             "calle 223 ",
             "Avenida 26 de julio ",
             "Abel Santa Maria",
@@ -12552,7 +12555,7 @@
         "parada": [
             "terminal diesmero ",
             "monte rey ",
-            "calle 1 ",
+            "calle 1",
             "La Cuevita",
             "Calzada san miguel ",
             "calle 4 ",
@@ -12567,15 +12570,15 @@
             "fabrica  de galleta ",
             "Refineria nico lopez",
             "Reparto Chibas",
-            "calle 21 ",
+            "calle 21",
             "calle 19 ",
-            "Avenidacasablanca ",
+            "Avenida casablanca",
             "central termoelectrica ",
             "instituto de meteorologia ",
             "morrro cabana ",
             "escuela ujc ",
             "Hospital naval",
-            "Avenidacienfuego ",
+            "Avenida cienfuego",
             ""
         ],
         "ida": [],
@@ -12658,8 +12661,8 @@
                 -82.32262674018027
             ],
             [
-                null,
-                null
+                23.1506645,
+                -82.30194
             ],
             [
                 null,
@@ -12678,8 +12681,8 @@
                 -82.334472
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 null,
@@ -12798,21 +12801,21 @@
         "parada": [
             "Terminal Cotorro",
             "Bello Palmar",
-            "Avenida 101 ",
-            "calle 52 ",
-            "calle 100 ",
+            "Avenida 101",
+            "calle 52",
+            "calle 100",
             "ojo de agua ",
             "Reparto Electrico",
             "Calzada cienfuegos ",
-            "secundaria ",
+            "secundaria",
             "AvenidaAlmendras y Ave Flores",
-            "Avenidasan francisco ",
+            "Avenidasan francisco",
             "puente de calabazar ",
             "Reparto Capri",
-            "Avenidaguinera ",
-            "triangulo ",
-            "parraga ",
-            "san agustin ",
+            "Avenida guinera",
+            "triangulo",
+            "parraga",
+            "san agustin",
             "Hospital Julio Trigo"
         ],
         "ida": [],
@@ -12894,7 +12897,7 @@
     },
     "A52": {
         "parada": [
-            "terminal cotooro ",
+            "terminal cotorro ",
             "calle 20 ",
             "Carretera Santa Maria y Callejon La Victoria",
             "Carretera Pitirre y Minint",
@@ -12909,8 +12912,8 @@
         "regreso": [],
         "coordenadas": [
             [
-                null,
-                null
+                23.0400002,
+                -82.2625379
             ],
             [
                 23.05163628356022,
@@ -12954,13 +12957,13 @@
         "parada": [
             "terminal cotorro ",
             "Bello Palmar",
-            "Avenida 101 ",
+            "Avenida 101",
             "la gomera ",
             "reparto moralitos",
             "Monumental",
             "entronque y alecrin ",
             "Puente de Santa Fe",
-            "via blanca y rotonda cogimar ",
+            "via blanca y rotonda Cojimar ",
             "Via tunel",
             "hospital naval ",
             "la cabana ",
@@ -13010,8 +13013,8 @@
                 -82.309109
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1494879,
@@ -13029,13 +13032,13 @@
             "Corralesfalso",
             "calle 20 ",
             "calle a",
-            "Avenidacojimar ",
+            "Avenida cojimar ",
             "Reparto Chibas",
             "via blanca y calle 21",
             "calle 23",
             "Via tunel",
             "Los Tres Picos",
-            "Avenidacienfuego ",
+            "Avenida cienfuego",
             "morrro cabana ",
             "instituto de meteorologia "
         ],
@@ -13059,8 +13062,8 @@
                 -82.39252086797794
             ],
             [
-                null,
-                null
+                23.147812238110692,
+                -82.29955276200188
             ],
             [
                 23.132983,
@@ -13098,20 +13101,20 @@
     },
     "A26": {
         "parada": [
-            "calle 82 ",
-            "Avenidacasablanca ",
-            "central termoelectrica ",
-            "Avenidacienfuego ",
-            "calle 1 ",
-            "carretera morro  ",
-            "calle 22 ",
-            "calle 26 ",
-            "los pinos ",
+            "calle 82",
+            "Avenida casablanca",
+            "central termoelectrica",
+            "Avenida cienfuego",
+            "calle 1",
+            "carretera morro",
+            "calle 22",
+            "calle 26",
+            "los pinos",
             "rotonda de alamar",
             "Hanoi",
-            "162 ",
+            "Calle 162",
             "Intermitente de alamar",
-            "parque amistad ",
+            "parque amistad",
             "Micro X",
             "academia naval "
         ],
@@ -13123,8 +13126,8 @@
                 null
             ],
             [
-                null,
-                null
+                23.1506645,
+                -82.30194
             ],
             [
                 null,
@@ -13163,8 +13166,8 @@
                 -82.2803979
             ],
             [
-                23.1358947,
-                -82.3566485
+                23.090985884814938,
+                -82.46035494982084
             ],
             [
                 23.1579412,
@@ -13314,7 +13317,7 @@
             "calzada de guanabacoa ",
             "calle 2 ",
             "reparto manana ",
-            "Avenida 1 ",
+            "Avenida 1",
             "Virgen del camino",
             "Primero de Mayo",
             "luyano ",
@@ -13472,7 +13475,7 @@
             "Rotonda cojimar",
             "calle 32 ",
             "los 3 picos ",
-            "Avenidacienfuego "
+            "Avenida cienfuego"
         ],
         "ida": [],
         "regreso": [],
@@ -13544,7 +13547,7 @@
             "pena altas ",
             "Conchita",
             "Estacion Policia",
-            "Avenida 5",
+            "5ta avenida",
             "cupet guanabo ",
             "Los Marinos",
             "playa bacuranao ",
@@ -13573,8 +13576,8 @@
                 -82.3289411
             ],
             [
-                null,
-                null
+                23.106172902655157,
+                -82.44154738649377
             ],
             [
                 23.1696094,
@@ -13601,8 +13604,8 @@
                 -82.3065557
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1494879,
@@ -13626,7 +13629,7 @@
         "parada": [
             "pena altas ",
             "Conchita ",
-            "Avenida 5 ",
+            "5ta avenida ",
             "Estacion Policia",
             "cupet guanabo ",
             "maceo y el puente",
@@ -13647,8 +13650,8 @@
                 -82.35324234999999
             ],
             [
-                null,
-                null
+                23.106172902655157,
+                -82.44154738649377
             ],
             [
                 23.0896318,
@@ -13685,7 +13688,7 @@
             "pena altas ",
             "Conchita ",
             "Estacion Policia",
-            "Avenida 5 ",
+            "5ta avenida ",
             "cadeca ",
             "cupet guanabo ",
             "calle 462 ",
@@ -13714,8 +13717,8 @@
                 -82.3289411
             ],
             [
-                null,
-                null
+                23.106172902655157,
+                -82.44154738649377
             ],
             [
                 23.0976332,
@@ -13946,7 +13949,7 @@
             "via blanca ",
             "Virgen del Camino",
             "Calzada de luyano ",
-            "Hospital Hija de Galicia",
+            "Hospital Hijas de Galicia",
             "10 de octubre y serafines",
             "la lechera",
             "cuatro camino ",
@@ -13999,8 +14002,8 @@
                 -82.36028302654478
             ],
             [
-                null,
-                null
+                23.105201,
+                -82.3579087
             ],
             [
                 null,
@@ -14037,20 +14040,19 @@
             "calle 82 y via tunel ",
             "calle 32 ",
             "real y 29 ",
-            "los pinos ",
+            "los pinos",
             "calle 22",
-            "terminal cogimar ",
-            "Avenidacienfuego ",
+            "terminal Cojimar ",
+            "Avenida cienfuego",
             "hospital naval ",
-            "la cabana ",
+            "la cabana",
             "Cuba y Pena pobre",
-            "san lazaro ",
+            "san lazaro",
             "Hospital Ameijeiras",
             "universidad de la habana ",
             "Hospital Calixto Garcia",
             "omnibus nacionales ",
-            " boyeros y bruzon ",
-            ""
+            "boyeros y bruzon "
         ],
         "ida": [],
         "regreso": [],
@@ -14076,16 +14078,16 @@
                 -82.40348668606482
             ],
             [
-                null,
-                null
+                23.1691649,
+                -82.3048414
             ],
             [
                 null,
                 null
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1494879,
@@ -14118,10 +14120,6 @@
             [
                 23.1279354,
                 -82.3831449
-            ],
-            [
-                23.135305,
-                -82.3589631
             ]
         ]
     },
@@ -14165,8 +14163,8 @@
                 -82.3065557
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1494879,
@@ -14243,7 +14241,7 @@
             "pena altas ",
             "Conchita ",
             "Estacion Policia",
-            "Avenida 5",
+            "5ta avenida",
             "cadeca ",
             "cupet guanabo ",
             "la barca",
@@ -14278,8 +14276,8 @@
                 -82.3289411
             ],
             [
-                null,
-                null
+                23.106172902655157,
+                -82.44154738649377
             ],
             [
                 23.0976332,
@@ -14441,7 +14439,7 @@
     },
     "A65": {
         "parada": [
-            "Avenidacasablanca ",
+            "Avenida casablanca",
             "Calle 6",
             "Calle 21",
             "Rotonda cojimar",
@@ -14449,7 +14447,7 @@
             "Paseo Panamericano",
             "Carretera Morro y terminal cojimar",
             "Calle 1",
-            "Avenidacienfuego ",
+            "Avenida cienfuego",
             "Hospital Naval",
             "La Cabana",
             "Cuba y Pena pobre",
@@ -14467,8 +14465,8 @@
         "regreso": [],
         "coordenadas": [
             [
-                null,
-                null
+                23.1506645,
+                -82.30194
             ],
             [
                 23.0480624470667,
@@ -14503,8 +14501,8 @@
                 null
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1494879,
@@ -14600,8 +14598,8 @@
                 -82.334472
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1494879,
@@ -14647,7 +14645,7 @@
     },
     "A83": {
         "parada": [
-            "Avenidacasablanca ",
+            "Avenida casablanca",
             "Calle 82",
             "Los 3 Picos",
             "Hospital Naval",
@@ -14678,8 +14676,8 @@
         "regreso": [],
         "coordenadas": [
             [
-                null,
-                null
+                23.1506645,
+                -82.30194
             ],
             [
                 null,
@@ -14690,8 +14688,8 @@
                 null
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1494879,
@@ -14789,9 +14787,9 @@
             "Corralesfalso y Penalver",
             "Corralesfalso y Reiglita",
             "Corralesfalso",
-            "AvenidaCojimar",
+            "Avenida Cojimar",
             "Reparto Chibas",
-            "AvenidaGuanabacoa",
+            "Avenida Guanabacoa",
             "Calle 10",
             "Calle 21",
             "Calle 82",
@@ -14799,7 +14797,7 @@
             "Hospital Naval",
             "La Cabana",
             "Cuba y Pena pobre",
-            "san lazaro ",
+            "san lazaro",
             "Hospital Ameijeiras",
             "Universidad de La Habana",
             "Hospital Calixto Garcia",
@@ -14825,16 +14823,16 @@
                 null
             ],
             [
-                null,
-                null
+                23.147812238110692,
+                -82.29955276200188
             ],
             [
                 23.132983,
                 -82.30718725412609
             ],
             [
-                null,
-                null
+                23.149148647638143,
+                -82.31074585227009
             ],
             [
                 23.133341342849178,
@@ -14853,8 +14851,8 @@
                 null
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1494879,
@@ -14990,7 +14988,7 @@
             "Reparto Militares",
             "Agromercado",
             "Cine Guanabo",
-            "Avenida 5 y Calle 500",
+            "5ta avenida y Calle 500",
             "La conchita",
             "La cantera",
             "Cementerio",
@@ -15213,7 +15211,7 @@
     },
     "C7": {
         "parada": [
-            "Avenidacasablanca ",
+            "Avenida casablanca",
             "central termoelectrica ",
             "Villa Panamericana",
             "Puente de alamar",
@@ -15230,7 +15228,7 @@
             "Los Marinos",
             "Avenida Americas",
             "Calle 462",
-            "Avenida 5",
+            "5ta avenida",
             "Calle 24 y 28",
             "Brisas Mar",
             "Arco",
@@ -15241,8 +15239,8 @@
         "regreso": [],
         "coordenadas": [
             [
-                null,
-                null
+                23.1506645,
+                -82.30194
             ],
             [
                 null,
@@ -15309,8 +15307,8 @@
                 -82.14761189892852
             ],
             [
-                null,
-                null
+                23.106172902655157,
+                -82.44154738649377
             ],
             [
                 23.058657291871363,
@@ -15416,8 +15414,8 @@
                 -82.3065557
             ],
             [
-                23.153301,
-                -82.33293935
+                23.1544838,
+                -82.3317641
             ],
             [
                 23.1494879,
